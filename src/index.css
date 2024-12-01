@@ -1,68 +1,63 @@
-:root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.app-container {
+  @apply flex flex-col items-center justify-between min-h-screen bg-gradient-to-b from-blue-900 to-blue-600;
+  position: relative;
+  overflow: hidden;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
+.app-header {
+  @apply w-full text-center py-4;
 }
 
-body {
-  margin: 0;
+.app-title {
+  @apply text-4xl font-bold text-white;
+}
+
+.content-wrapper {
+  @apply flex flex-col items-center text-center text-white px-4;
+}
+
+.listen-button {
+  @apply bg-gradient-to-r from-indigo-500 to-purple-500 text-white font-bold p-8 rounded-full shadow-lg z-10;
+  width: 180px;
+  height: 180px;
   display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 1000;
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+.listen-button:disabled {
+  @apply opacity-50 cursor-not-allowed;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+.ripple {
+  @apply absolute rounded-full bg-gradient-to-r from-indigo-500 to-purple-500 opacity-50;
+  width: 180px;
+  height: 180px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform-origin: center;
+  z-index: 0;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+.loader {
+  border-top-color: transparent;
+}
+
+.audio-player audio {
+  @apply mt-4 mx-auto;
+}
+
+.bird-info img {
+  @apply mt-4 mx-auto rounded-lg shadow-lg;
+}
+
+.app-footer {
+  @apply w-full text-center py-4 text-white;
 }
