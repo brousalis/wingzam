@@ -165,20 +165,6 @@ const App: React.FC = () => {
       </header>
 
       <div className='content-wrapper'>
-        <AnimatePresence>
-          {listening && (
-            <motion.div
-              className='listening-text text-xl mt-4'
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              transition={{ duration: 0.5 }}
-            >
-              {listeningText}
-            </motion.div>
-          )}
-        </AnimatePresence>
-
         <motion.div
           className='listen-container'
           initial={{ y: 0, scale: 1 }}
@@ -186,6 +172,19 @@ const App: React.FC = () => {
           exit={{ y: 0, scale: 1 }}
           transition={{ duration: 0.7, ease: 'easeInOut' }}
         >
+          <AnimatePresence>
+            {listening && (
+              <motion.div
+                className='listening-text text-xl mt-4'
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                transition={{ duration: 0.5 }}
+              >
+                {listeningText}
+              </motion.div>
+            )}
+          </AnimatePresence>
           {listening && !bird ? (
             <>
               <motion.div
