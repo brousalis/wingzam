@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@google-cloud/speech": "^6.7.0",
+    "@headlessui/react": "^2.2.0",
+    "@mui/icons-material": "^6.1.9",
+    "@mui/material": "^6.1.9",
     "@types/node": "^22.10.1",
     "@vercel/node": "^2.10.3",
     "axios": "^1.7.8",

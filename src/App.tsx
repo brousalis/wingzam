@@ -1,27 +1,31 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import React, { useEffect, useRef, useState } from 'react';
 import { FaFeather } from 'react-icons/fa';
+import BirdModal from './BirdModal.tsx';
 import './index.css';
 
 interface Bird {
-  id: number | null;
-  'Common name': string | null;
-  'Scientific name': string | null;
-  Expansion: string | null;
-  Color: string | null;
-  'Power text': string | null;
-  Wingspan: number;
-  Note?: string | null;
-}
-
-declare global {
-  interface Window {
-    webkitSpeechRecognition: typeof SpeechRecognition;
-  }
+  id: number;
+  common_name: string;
+  scientific_name: string;
+  expansion: string;
+  color: string;
+  power_text: string;
+  wingspan: string;
+  note?: string;
+  recording: {
+    lat: string;
+    lng: string;
+    file: string;
+    sono: {
+      med: string;
+    };
+  };
 }
 
 const App: React.FC = () => {
   const [bird, setBird] = useState<Bird | null>(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const [error, setError] = useState<string>('');
   const [loading, setLoading] = useState<boolean>(false);
   const [interimTranscript, setInterimTranscript] = useState<string>('');
@@ -108,20 +112,26 @@ const App: React.FC = () => {
 
   const findBird = async (name: string) => {
     setLoading(true);
-    const birdData = await fetch('/data.json').then((res) => res.json());
+    const birdData = await fetch('/master.json').then((res) => res.json());
     const birdMatch = birdData.find(
-      (bird) => bird['Common name']?.toLowerCase() === name.toLowerCase()
+      (bird: Bird) => bird.common_name.toLowerCase() === name.toLowerCase()
     );
     if (birdMatch) {
       setBird(birdMatch as Bird);
       setError('');
       setListening(false);
+      setIsModalOpen(true); // Open modal when bird is found
     } else {
       setBird(null);
       setError(`no bird "${name.toLowerCase()}"`);
       setListening(false);
     }
     setLoading(false);
+  };
+
+  const closeModal = () => {
+    setIsModalOpen(false);
+    setBird(null); // Reset bird when modal closes
   };
 
   return (
@@ -145,57 +155,12 @@ const App: React.FC = () => {
           )}
         </AnimatePresence>
 
-        <AnimatePresence>
-          {bird && (
-            <motion.div
-              className='bird-card'
-              initial={{ opacity: 0, scale: 0.8, y: 50 }}
-              animate={{ opacity: 1, scale: 1, y: 0 }}
-              exit={{ opacity: 0, scale: 0.8, y: 50 }}
-              transition={{
-                duration: 0.7, // Increase duration to smoothen transition
-                ease: 'easeInOut',
-              }}
-              onAnimationComplete={(definition) => {
-                if (definition === 'exit') setBird(null); // Ensure smooth exit
-              }}
-            >
-              <div className='card-header'>
-                <h2 className='card-title'>{bird['Common name']}</h2>
-                <p className='card-subtitle'>{bird['Scientific name']}</p>
-              </div>
-              <div className='card-body'>
-                <p>
-                  <strong>Expansion:</strong> {bird.Expansion}
-                </p>
-                <p>
-                  <strong>Color:</strong> {bird.Color}
-                </p>
-                <p>
-                  <strong>Power:</strong> {bird['Power text']}
-                </p>
-                <p>
-                  <strong>Wingspan:</strong> {bird.Wingspan} cm
-                </p>
-                {bird.Note && (
-                  <p>
-                    <strong>Note:</strong> {bird.Note}
-                  </p>
-                )}
-              </div>
-            </motion.div>
-          )}
-        </AnimatePresence>
-
         <motion.div
           className='listen-container'
           initial={{ y: 0, scale: 1 }}
-          animate={{ y: bird ? '6vh' : 0, scale: bird ? 0.7 : 1 }}
+          animate={{ y: 0, scale: bird ? 0.7 : 1 }}
           exit={{ y: 0, scale: 1 }}
-          transition={{
-            duration: 0.7,
-            ease: 'easeInOut', // Match with card's transition
-          }}
+          transition={{ duration: 0.7, ease: 'easeInOut' }}
         >
           {listening && !bird ? (
             <>
@@ -233,7 +198,7 @@ const App: React.FC = () => {
           ) : null}
 
           <motion.button
-            className='listen-button'
+            className='listen-button depth'
             onClick={handleListen}
             disabled={loading}
             whileTap={{ scale: 0.9 }}
@@ -263,8 +228,12 @@ const App: React.FC = () => {
         </motion.div>
       </div>
 
+      {isModalOpen && (
+        <BirdModal bird={bird!} isOpen={isModalOpen} onClose={closeModal} />
+      )}
+
       <footer className='app-footer'>
-        <p>made by pete</p>
+        <span>made by</span> <span className='name'>pete</span>
       </footer>
     </div>
   );
