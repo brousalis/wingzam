@@ -13,7 +13,7 @@ const toSnakeCase = (str) => {
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 // File paths
-const dataFile = './public/test.json';
+const dataFile = './public/data.json';
 const outputFile = './public/master.json';
 
 (async () => {
@@ -50,6 +50,7 @@ const outputFile = './public/master.json';
 
           // Construct a special key for the frontend to play the sound
           updatedBird.frontend_sound_url = `https:${recording.file}`;
+          console.log(`Updated bird: ${updatedBird.scientific_name}`);
         }
       } catch (apiError) {
         console.error(
@@ -61,7 +62,7 @@ const outputFile = './public/master.json';
       updatedBirds.push(updatedBird);
 
       // Respect API throttling: wait 1 second between requests
-      await delay(1000);
+      await delay(100);
     }
 
     // Save the updated data to master.json

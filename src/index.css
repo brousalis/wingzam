@@ -48,7 +48,7 @@ body {
   left: 50%;
   transform: translateX(-50%);
   min-width: 100vw;
-  top: -65px;
+  top: -75px;
 }
 
 .listen-button {

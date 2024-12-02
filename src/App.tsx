@@ -1,4 +1,5 @@
 import { AnimatePresence, motion } from 'framer-motion';
+import Fuse from 'fuse.js'; // Import Fuse.js for fuzzy matching
 import React, { useEffect, useRef, useState } from 'react';
 import { FaFeather } from 'react-icons/fa';
 import BirdModal from './BirdModal.tsx';
@@ -13,6 +14,7 @@ interface Bird {
   power_text: string;
   wingspan: string;
   note?: string;
+  common_names: string[]; // Updated to include the list of common names
   recording: {
     lat: string;
     lng: string;
@@ -33,8 +35,24 @@ const App: React.FC = () => {
   const [listeningText, setListeningText] = useState<string>(
     'listening for bird names'
   );
-
   const recognitionRef = useRef<SpeechRecognition | null>(null);
+  const [fuse, setFuse] = useState<Fuse<Bird> | null>(null); // Fuse instance
+
+  useEffect(() => {
+    // Load bird data and initialize Fuse.js
+    const initializeFuse = async () => {
+      const birdData: Bird[] = await fetch('/enriched_master.json').then(
+        (res) => res.json()
+      );
+      const options = {
+        keys: ['common_names'], // Search within common_names
+        threshold: 0.3, // Set threshold for fuzzy matching
+      };
+      const fuseInstance = new Fuse(birdData, options);
+      setFuse(fuseInstance);
+    };
+    initializeFuse();
+  }, []);
 
   useEffect(() => {
     let timeout: NodeJS.Timeout;
@@ -112,12 +130,18 @@ const App: React.FC = () => {
 
   const findBird = async (name: string) => {
     setLoading(true);
-    const birdData = await fetch('/master.json').then((res) => res.json());
-    const birdMatch = birdData.find(
-      (bird: Bird) => bird.common_name.toLowerCase() === name.toLowerCase()
-    );
-    if (birdMatch) {
-      setBird(birdMatch as Bird);
+
+    if (!fuse) {
+      setError('Data not loaded yet. Please try again later.');
+      setLoading(false);
+      return;
+    }
+
+    // Perform fuzzy search
+    const result = fuse.search(name);
+
+    if (result.length > 0) {
+      setBird(result[0].item);
       setError('');
       setListening(false);
       setIsModalOpen(true); // Open modal when bird is found

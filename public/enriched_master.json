@@ -112,7 +112,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/583373/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/583373/download",
+    "common_names": [
+      "abbott's booby",
+      "abbotts booby",
+      "abbott's-booby"
+    ]
   },
   {
     "id": 2,
@@ -234,7 +239,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/475162/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/475162/download",
+    "common_names": [
+      "acorn woodpecker",
+      "acorn-woodpecker"
+    ]
   },
   {
     "id": 3,
@@ -370,7 +379,11 @@
       "mic": "Sennheiser MKH20",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/891493/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/891493/download",
+    "common_names": [
+      "american avocet",
+      "american-avocet"
+    ]
   },
   {
     "id": 4,
@@ -490,7 +503,11 @@
       "mic": "iPhone 13",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938124/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938124/download",
+    "common_names": [
+      "american bittern",
+      "american-bittern"
+    ]
   },
   {
     "id": 5,
@@ -607,7 +624,11 @@
       "mic": "Wildtronics parabola",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/937001/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/937001/download",
+    "common_names": [
+      "american coot",
+      "american-coot"
+    ]
   },
   {
     "id": 6,
@@ -732,7 +753,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/543339/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/543339/download",
+    "common_names": [
+      "american crow",
+      "american-crow"
+    ]
   },
   {
     "id": 7,
@@ -851,7 +876,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/571645/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/571645/download",
+    "common_names": [
+      "american goldfinch",
+      "american-goldfinch"
+    ]
   },
   {
     "id": 8,
@@ -961,7 +990,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/877035/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/877035/download",
+    "common_names": [
+      "american kestrel",
+      "american-kestrel"
+    ]
   },
   {
     "id": 9,
@@ -1093,7 +1126,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/871345/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/871345/download",
+    "common_names": [
+      "american oystercatcher",
+      "american-oystercatcher"
+    ]
   },
   {
     "id": 10,
@@ -1223,7 +1260,11 @@
       "mic": "iPhone 13",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/939900/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/939900/download",
+    "common_names": [
+      "american redstart",
+      "american-redstart"
+    ]
   },
   {
     "id": 11,
@@ -1340,7 +1381,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/543353/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/543353/download",
+    "common_names": [
+      "american robin",
+      "american-robin"
+    ]
   },
   {
     "id": 12,
@@ -1457,7 +1502,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/486233/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/486233/download",
+    "common_names": [
+      "american white pelican",
+      "american-white-pelican"
+    ]
   },
   {
     "id": 13,
@@ -1567,7 +1616,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/560227/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/560227/download",
+    "common_names": [
+      "american woodcock",
+      "american-woodcock"
+    ]
   },
   {
     "id": 14,
@@ -1681,7 +1734,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/524666/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/524666/download",
+    "common_names": [
+      "anhinga"
+    ]
   },
   {
     "id": 15,
@@ -1802,7 +1858,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/524813/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/524813/download",
+    "common_names": [
+      "anna's hummingbird",
+      "annas hummingbird",
+      "anna's-hummingbird"
+    ]
   },
   {
     "id": 16,
@@ -1919,7 +1980,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/560020/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/560020/download",
+    "common_names": [
+      "ash-throated flycatcher",
+      "ashthroated flycatcher",
+      "ash-throated-flycatcher",
+      "ash throated flycatcher"
+    ]
   },
   {
     "id": 358,
@@ -2034,7 +2101,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/311186/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/311186/download",
+    "common_names": [
+      "asian emerald dove",
+      "asian-emerald-dove"
+    ]
   },
   {
     "id": 359,
@@ -2167,7 +2238,11 @@
       "mic": "telinga pro 9 mkII",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/949668/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/949668/download",
+    "common_names": [
+      "asian koel",
+      "asian-koel"
+    ]
   },
   {
     "id": 17,
@@ -2282,7 +2357,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/479180/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/479180/download",
+    "common_names": [
+      "atlantic puffin",
+      "atlantic-puffin"
+    ]
   },
   {
     "id": 18,
@@ -2397,7 +2476,12 @@
       "mic": "built-in microphone",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/932028/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/932028/download",
+    "common_names": [
+      "audouin's gull",
+      "audouins gull",
+      "audouin's-gull"
+    ]
   },
   {
     "id": 264,
@@ -2507,7 +2591,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/537877/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/537877/download",
+    "common_names": [
+      "australasian pipit",
+      "australasian-pipit"
+    ]
   },
   {
     "id": 265,
@@ -2625,7 +2713,11 @@
       "mic": "Micro Mic PIP ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/900469/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/900469/download",
+    "common_names": [
+      "australasian shoveler",
+      "australasian-shoveler"
+    ]
   },
   {
     "id": 266,
@@ -2690,6 +2782,10 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "australian ibis",
+      "australian-ibis"
     ]
   },
   {
@@ -2805,7 +2901,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935908/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935908/download",
+    "common_names": [
+      "australian magpie",
+      "australian-magpie"
+    ]
   },
   {
     "id": 268,
@@ -2940,7 +3040,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/943877/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/943877/download",
+    "common_names": [
+      "australian owlet-nightjar",
+      "australian owletnightjar",
+      "australian-owlet-nightjar",
+      "australian owlet nightjar"
+    ]
   },
   {
     "id": 269,
@@ -3050,7 +3156,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/816302/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/816302/download",
+    "common_names": [
+      "australian raven",
+      "australian-raven"
+    ]
   },
   {
     "id": 270,
@@ -3165,7 +3275,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935854/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935854/download",
+    "common_names": [
+      "australian reed warbler",
+      "australian-reed-warbler"
+    ]
   },
   {
     "id": 271,
@@ -3280,7 +3394,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/567416/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/567416/download",
+    "common_names": [
+      "australian shelduck",
+      "australian-shelduck"
+    ]
   },
   {
     "id": 272,
@@ -3340,7 +3458,11 @@
     "beak_pointing_right": "X",
     "note": null,
     "rulings": [],
-    "additionalrulings": []
+    "additionalrulings": [],
+    "common_names": [
+      "australian zebra finch",
+      "australian-zebra-finch"
+    ]
   },
   {
     "id": 360,
@@ -3459,7 +3581,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/862476/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/862476/download",
+    "common_names": [
+      "azure tit",
+      "azure-tit"
+    ]
   },
   {
     "id": 19,
@@ -3524,6 +3650,11 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "baird's sparrow",
+      "bairds sparrow",
+      "baird's-sparrow"
     ]
   },
   {
@@ -3645,7 +3776,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/535101/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/535101/download",
+    "common_names": [
+      "bald eagle",
+      "bald-eagle"
+    ]
   },
   {
     "id": 21,
@@ -3764,7 +3899,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/562404/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/562404/download",
+    "common_names": [
+      "baltimore oriole",
+      "baltimore-oriole"
+    ]
   },
   {
     "id": 22,
@@ -3874,7 +4013,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952016/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952016/download",
+    "common_names": [
+      "barn owl",
+      "barn-owl"
+    ]
   },
   {
     "id": 23,
@@ -3989,7 +4132,11 @@
       "mic": "Dodotronic Hi-Sound Mono",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/934498/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/934498/download",
+    "common_names": [
+      "barn swallow",
+      "barn-swallow"
+    ]
   },
   {
     "id": 24,
@@ -4104,7 +4251,11 @@
       "mic": "Sennheiser ME66",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/922577/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/922577/download",
+    "common_names": [
+      "barred owl",
+      "barred-owl"
+    ]
   },
   {
     "id": 25,
@@ -4244,7 +4395,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/488196/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/488196/download",
+    "common_names": [
+      "barrow's goldeneye",
+      "barrows goldeneye",
+      "barrow's-goldeneye"
+    ]
   },
   {
     "id": 361,
@@ -4359,7 +4515,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/847134/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/847134/download",
+    "common_names": [
+      "baya weaver",
+      "baya-weaver"
+    ]
   },
   {
     "id": 362,
@@ -4476,7 +4636,11 @@
       "mic": "Parabol C",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/943150/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/943150/download",
+    "common_names": [
+      "bearded reedling",
+      "bearded-reedling"
+    ]
   },
   {
     "id": 26,
@@ -4591,7 +4755,12 @@
       "mic": "",
       "smp": "16000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/559341/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/559341/download",
+    "common_names": [
+      "bell's vireo",
+      "bells vireo",
+      "bell's-vireo"
+    ]
   },
   {
     "id": 27,
@@ -4735,7 +4904,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/388263/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/388263/download",
+    "common_names": [
+      "belted kingfisher",
+      "belted-kingfisher"
+    ]
   },
   {
     "id": 28,
@@ -4852,7 +5025,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/562970/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/562970/download",
+    "common_names": [
+      "bewick's wren",
+      "bewicks wren",
+      "bewick's-wren"
+    ]
   },
   {
     "id": 363,
@@ -4971,7 +5149,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/906445/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/906445/download",
+    "common_names": [
+      "black drongo",
+      "black-drongo"
+    ]
   },
   {
     "id": 273,
@@ -5090,7 +5272,11 @@
       "mic": "Rode NTG2",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/841103/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/841103/download",
+    "common_names": [
+      "black noddy",
+      "black-noddy"
+    ]
   },
   {
     "id": 29,
@@ -5210,7 +5396,11 @@
       "mic": "Tascam DR-05X",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/945803/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/945803/download",
+    "common_names": [
+      "black redstart",
+      "black-redstart"
+    ]
   },
   {
     "id": 30,
@@ -5322,7 +5512,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/540248/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/540248/download",
+    "common_names": [
+      "black skimmer",
+      "black-skimmer"
+    ]
   },
   {
     "id": 364,
@@ -5440,7 +5634,11 @@
       "mic": "",
       "smp": "32000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/421079/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/421079/download",
+    "common_names": [
+      "black stork",
+      "black-stork"
+    ]
   },
   {
     "id": 274,
@@ -5555,7 +5753,11 @@
       "mic": "Parabolic microphone by Dodotronic",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/925702/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/925702/download",
+    "common_names": [
+      "black swan",
+      "black-swan"
+    ]
   },
   {
     "id": 31,
@@ -5678,7 +5880,11 @@
       "mic": "Primo EM272",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/932012/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/932012/download",
+    "common_names": [
+      "black tern",
+      "black-tern"
+    ]
   },
   {
     "id": 32,
@@ -5813,7 +6019,11 @@
       "mic": "Embutido",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/929989/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/929989/download",
+    "common_names": [
+      "black vulture",
+      "black-vulture"
+    ]
   },
   {
     "id": 33,
@@ -5932,7 +6142,11 @@
       "mic": "Telinga pro 5",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/937534/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/937534/download",
+    "common_names": [
+      "black woodpecker",
+      "black-woodpecker"
+    ]
   },
   {
     "id": 34,
@@ -6047,7 +6261,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/566733/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/566733/download",
+    "common_names": [
+      "black-bellied whistling duck",
+      "blackbellied whistling duck",
+      "black-bellied-whistling-duck",
+      "black bellied whistling duck"
+    ]
   },
   {
     "id": 35,
@@ -6182,7 +6402,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/361480/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/361480/download",
+    "common_names": [
+      "black-billed magpie",
+      "blackbilled magpie",
+      "black-billed-magpie",
+      "black billed magpie"
+    ]
   },
   {
     "id": 36,
@@ -6301,7 +6527,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/495007/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/495007/download",
+    "common_names": [
+      "black-chinned hummingbird",
+      "blackchinned hummingbird",
+      "black-chinned-hummingbird",
+      "black chinned hummingbird"
+    ]
   },
   {
     "id": 37,
@@ -6424,7 +6656,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951741/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951741/download",
+    "common_names": [
+      "black-crowned night-heron",
+      "blackcrowned nightheron",
+      "black-crowned-night-heron",
+      "black crowned night heron"
+    ]
   },
   {
     "id": 38,
@@ -6543,7 +6781,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951941/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951941/download",
+    "common_names": [
+      "black-headed gull",
+      "blackheaded gull",
+      "black-headed-gull",
+      "black headed gull"
+    ]
   },
   {
     "id": 365,
@@ -6665,7 +6909,13 @@
       "mic": "Sennheiser ME66 & K6",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:"
+    "frontend_sound_url": "https:",
+    "common_names": [
+      "black-naped oriole",
+      "blacknaped oriole",
+      "black-naped-oriole",
+      "black naped oriole"
+    ]
   },
   {
     "id": 39,
@@ -6780,7 +7030,13 @@
       "mic": "",
       "smp": "22050"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/562295/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/562295/download",
+    "common_names": [
+      "black-necked stilt",
+      "blacknecked stilt",
+      "black-necked-stilt",
+      "black necked stilt"
+    ]
   },
   {
     "id": 275,
@@ -6895,7 +7151,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/679518/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/679518/download",
+    "common_names": [
+      "black-shouldered kite",
+      "blackshouldered kite",
+      "black-shouldered-kite",
+      "black shouldered kite"
+    ]
   },
   {
     "id": 40,
@@ -7010,7 +7272,13 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951349/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951349/download",
+    "common_names": [
+      "black-tailed godwit",
+      "blacktailed godwit",
+      "black-tailed-godwit",
+      "black tailed godwit"
+    ]
   },
   {
     "id": 41,
@@ -7125,7 +7393,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/923475/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/923475/download",
+    "common_names": [
+      "black-throated diver",
+      "blackthroated diver",
+      "black-throated-diver",
+      "black throated diver"
+    ]
   },
   {
     "id": 42,
@@ -7242,7 +7516,11 @@
       "mic": "wildtronics mono amplified",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/921374/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/921374/download",
+    "common_names": [
+      "blue grosbeak",
+      "blue-grosbeak"
+    ]
   },
   {
     "id": 43,
@@ -7361,7 +7639,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/555073/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/555073/download",
+    "common_names": [
+      "blue jay",
+      "blue-jay"
+    ]
   },
   {
     "id": 366,
@@ -7476,7 +7758,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/947787/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/947787/download",
+    "common_names": [
+      "blue rock-thrush",
+      "blue rockthrush",
+      "blue-rock-thrush",
+      "blue rock thrush"
+    ]
   },
   {
     "id": 44,
@@ -7595,7 +7883,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/477207/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/477207/download",
+    "common_names": [
+      "blue-gray gnatcatcher",
+      "bluegray gnatcatcher",
+      "blue-gray-gnatcatcher",
+      "blue gray gnatcatcher"
+    ]
   },
   {
     "id": 45,
@@ -7709,7 +8003,13 @@
       "mic": "Røde NTG5",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/839511/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/839511/download",
+    "common_names": [
+      "blue-winged warbler",
+      "bluewinged warbler",
+      "blue-winged-warbler",
+      "blue winged warbler"
+    ]
   },
   {
     "id": 46,
@@ -7832,7 +8132,10 @@
       "mic": "Dodotronic Hi-Sound Stereo",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/934764/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/934764/download",
+    "common_names": [
+      "bluethroat"
+    ]
   },
   {
     "id": 276,
@@ -7947,7 +8250,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/842544/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/842544/download",
+    "common_names": [
+      "blyth's hornbill",
+      "blyths hornbill",
+      "blyth's-hornbill"
+    ]
   },
   {
     "id": 47,
@@ -8062,7 +8370,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/451243/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/451243/download",
+    "common_names": [
+      "bobolink"
+    ]
   },
   {
     "id": 48,
@@ -8182,7 +8493,12 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/792286/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/792286/download",
+    "common_names": [
+      "bonelli's eagle",
+      "bonellis eagle",
+      "bonelli's-eagle"
+    ]
   },
   {
     "id": 367,
@@ -8292,7 +8608,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/743675/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/743675/download",
+    "common_names": [
+      "brahminy kite",
+      "brahminy-kite"
+    ]
   },
   {
     "id": 368,
@@ -8407,7 +8727,10 @@
       "mic": "Stereo EM272 capsules",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952557/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952557/download",
+    "common_names": [
+      "brambling"
+    ]
   },
   {
     "id": 49,
@@ -8522,7 +8845,10 @@
       "mic": "Sennheiser MKH 416",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/949957/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/949957/download",
+    "common_names": [
+      "brant"
+    ]
   },
   {
     "id": 50,
@@ -8644,7 +8970,12 @@
       "mic": "Wildtronics Parabola",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/764039/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/764039/download",
+    "common_names": [
+      "brewer's blackbird",
+      "brewers blackbird",
+      "brewer's-blackbird"
+    ]
   },
   {
     "id": 51,
@@ -8754,7 +9085,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/571399/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/571399/download",
+    "common_names": [
+      "broad-winged hawk",
+      "broadwinged hawk",
+      "broad-winged-hawk",
+      "broad winged hawk"
+    ]
   },
   {
     "id": 277,
@@ -8869,7 +9206,10 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/819390/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/819390/download",
+    "common_names": [
+      "brolga"
+    ]
   },
   {
     "id": 52,
@@ -9008,7 +9348,11 @@
       "mic": "wildtronics mono amplified",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/814125/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/814125/download",
+    "common_names": [
+      "bronzed cowbird",
+      "bronzed-cowbird"
+    ]
   },
   {
     "id": 278,
@@ -9118,7 +9462,11 @@
       "mic": "Telinga Pro-X",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/859875/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/859875/download",
+    "common_names": [
+      "brown falcon",
+      "brown-falcon"
+    ]
   },
   {
     "id": 53,
@@ -9237,7 +9585,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/540652/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/540652/download",
+    "common_names": [
+      "brown pelican",
+      "brown-pelican"
+    ]
   },
   {
     "id": 369,
@@ -9349,7 +9701,11 @@
       "mic": "telinga pro 9 mkII",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950063/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950063/download",
+    "common_names": [
+      "brown shrike",
+      "brown-shrike"
+    ]
   },
   {
     "id": 54,
@@ -9485,7 +9841,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/557298/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/557298/download",
+    "common_names": [
+      "brown-headed cowbird",
+      "brownheaded cowbird",
+      "brown-headed-cowbird",
+      "brown headed cowbird"
+    ]
   },
   {
     "id": 279,
@@ -9595,7 +9957,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/940888/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/940888/download",
+    "common_names": [
+      "budgerigar"
+    ]
   },
   {
     "id": 55,
@@ -9717,7 +10082,10 @@
       "mic": "Sm4 ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950849/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950849/download",
+    "common_names": [
+      "bullfinch"
+    ]
   },
   {
     "id": 56,
@@ -9832,7 +10200,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/524491/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/524491/download",
+    "common_names": [
+      "burrowing owl",
+      "burrowing-owl"
+    ]
   },
   {
     "id": 57,
@@ -9954,7 +10326,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/477233/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/477233/download",
+    "common_names": [
+      "bushtit"
+    ]
   },
   {
     "id": 58,
@@ -10019,6 +10394,10 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "california condor",
+      "california-condor"
     ]
   },
   {
@@ -10134,7 +10513,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/570687/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/570687/download",
+    "common_names": [
+      "california quail",
+      "california-quail"
+    ]
   },
   {
     "id": 60,
@@ -10249,7 +10632,11 @@
       "mic": "Telinga",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/934272/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/934272/download",
+    "common_names": [
+      "canada goose",
+      "canada-goose"
+    ]
   },
   {
     "id": 61,
@@ -10370,7 +10757,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/371522/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/371522/download",
+    "common_names": [
+      "canvasback"
+    ]
   },
   {
     "id": 62,
@@ -10482,7 +10872,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/542154/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/542154/download",
+    "common_names": [
+      "carolina chickadee",
+      "carolina-chickadee"
+    ]
   },
   {
     "id": 63,
@@ -10597,7 +10991,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/574740/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/574740/download",
+    "common_names": [
+      "carolina wren",
+      "carolina-wren"
+    ]
   },
   {
     "id": 64,
@@ -10707,7 +11105,11 @@
       "mic": "interne ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952807/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952807/download",
+    "common_names": [
+      "carrion crow",
+      "carrion-crow"
+    ]
   },
   {
     "id": 65,
@@ -10829,7 +11231,12 @@
       "mic": "Wildtronics parabola",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941225/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941225/download",
+    "common_names": [
+      "cassin's finch",
+      "cassins finch",
+      "cassin's-finch"
+    ]
   },
   {
     "id": 66,
@@ -10944,7 +11351,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/877491/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/877491/download",
+    "common_names": [
+      "cassin's sparrow",
+      "cassins sparrow",
+      "cassin's-sparrow"
+    ]
   },
   {
     "id": 67,
@@ -11063,7 +11475,11 @@
       "mic": "Sennheiser K6",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/823171/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/823171/download",
+    "common_names": [
+      "cedar waxwing",
+      "cedar-waxwing"
+    ]
   },
   {
     "id": 68,
@@ -11181,7 +11597,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/558054/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/558054/download",
+    "common_names": [
+      "cerulean warbler",
+      "cerulean-warbler"
+    ]
   },
   {
     "id": 69,
@@ -11305,7 +11725,12 @@
       "mic": "Sm4 ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952529/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952529/download",
+    "common_names": [
+      "cetti's warbler",
+      "cettis warbler",
+      "cetti's-warbler"
+    ]
   },
   {
     "id": 70,
@@ -11420,7 +11845,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/341858/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/341858/download",
+    "common_names": [
+      "chestnut-collared longspur",
+      "chestnutcollared longspur",
+      "chestnut-collared-longspur",
+      "chestnut collared longspur"
+    ]
   },
   {
     "id": 71,
@@ -11546,7 +11977,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/662844/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/662844/download",
+    "common_names": [
+      "chihuahuan raven",
+      "chihuahuan-raven"
+    ]
   },
   {
     "id": 72,
@@ -11661,7 +12096,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/487256/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/487256/download",
+    "common_names": [
+      "chimney swift",
+      "chimney-swift"
+    ]
   },
   {
     "id": 73,
@@ -11776,7 +12215,11 @@
       "mic": "Sennheiser ME66",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/939192/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/939192/download",
+    "common_names": [
+      "chipping sparrow",
+      "chipping-sparrow"
+    ]
   },
   {
     "id": 74,
@@ -11901,7 +12344,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/758995/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/758995/download",
+    "common_names": [
+      "clark's grebe",
+      "clarks grebe",
+      "clark's-grebe"
+    ]
   },
   {
     "id": 75,
@@ -12020,7 +12468,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/567739/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/567739/download",
+    "common_names": [
+      "clark's nutcracker",
+      "clarks nutcracker",
+      "clark's-nutcracker"
+    ]
   },
   {
     "id": 76,
@@ -12152,7 +12605,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941462/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941462/download",
+    "common_names": [
+      "coal tit",
+      "coal-tit"
+    ]
   },
   {
     "id": 280,
@@ -12269,7 +12726,10 @@
       "mic": "Stereo EM272 capsules",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/929907/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/929907/download",
+    "common_names": [
+      "cockatiel"
+    ]
   },
   {
     "id": 77,
@@ -12389,7 +12849,11 @@
       "mic": "interne ",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952631/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952631/download",
+    "common_names": [
+      "common blackbird",
+      "common-blackbird"
+    ]
   },
   {
     "id": 78,
@@ -12521,7 +12985,11 @@
       "mic": "Sm4 ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950013/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950013/download",
+    "common_names": [
+      "common buzzard",
+      "common-buzzard"
+    ]
   },
   {
     "id": 79,
@@ -12633,7 +13101,11 @@
       "mic": "interne ",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952616/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952616/download",
+    "common_names": [
+      "common chaffinch",
+      "common-chaffinch"
+    ]
   },
   {
     "id": 80,
@@ -12743,7 +13215,11 @@
       "mic": "Primo 272",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/949339/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/949339/download",
+    "common_names": [
+      "common chiffchaff",
+      "common-chiffchaff"
+    ]
   },
   {
     "id": 81,
@@ -12877,7 +13353,11 @@
       "mic": "Sennheiser MKH 70 P48",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/931823/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/931823/download",
+    "common_names": [
+      "common cuckoo",
+      "common-cuckoo"
+    ]
   },
   {
     "id": 82,
@@ -12997,7 +13477,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950307/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950307/download",
+    "common_names": [
+      "common goldeneye",
+      "common-goldeneye"
+    ]
   },
   {
     "id": 83,
@@ -13117,7 +13601,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/542164/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/542164/download",
+    "common_names": [
+      "common grackle",
+      "common-grackle"
+    ]
   },
   {
     "id": 370,
@@ -13238,7 +13726,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:"
+    "frontend_sound_url": "https:",
+    "common_names": [
+      "common green magpie",
+      "common-green-magpie"
+    ]
   },
   {
     "id": 371,
@@ -13353,7 +13845,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938454/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938454/download",
+    "common_names": [
+      "common iora",
+      "common-iora"
+    ]
   },
   {
     "id": 84,
@@ -13472,7 +13968,11 @@
       "mic": "AudioMoth 1.2.0",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941432/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941432/download",
+    "common_names": [
+      "common kingfisher",
+      "common-kingfisher"
+    ]
   },
   {
     "id": 85,
@@ -13587,7 +14087,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/946907/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/946907/download",
+    "common_names": [
+      "common little bittern",
+      "common-little-bittern"
+    ]
   },
   {
     "id": 86,
@@ -13702,7 +14206,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/488028/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/488028/download",
+    "common_names": [
+      "common loon",
+      "common-loon"
+    ]
   },
   {
     "id": 87,
@@ -13814,7 +14322,11 @@
       "mic": "MKH40/30",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/855803/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/855803/download",
+    "common_names": [
+      "common merganser",
+      "common-merganser"
+    ]
   },
   {
     "id": 88,
@@ -13938,7 +14450,11 @@
       "mic": "Sm4 ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/949897/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/949897/download",
+    "common_names": [
+      "common moorhen",
+      "common-moorhen"
+    ]
   },
   {
     "id": 372,
@@ -14048,7 +14564,11 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950979/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950979/download",
+    "common_names": [
+      "common myna",
+      "common-myna"
+    ]
   },
   {
     "id": 89,
@@ -14165,7 +14685,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/569822/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/569822/download",
+    "common_names": [
+      "common nighthawk",
+      "common-nighthawk"
+    ]
   },
   {
     "id": 90,
@@ -14286,7 +14810,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/942796/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/942796/download",
+    "common_names": [
+      "common nightingale",
+      "common-nightingale"
+    ]
   },
   {
     "id": 91,
@@ -14411,7 +14939,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952842/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952842/download",
+    "common_names": [
+      "common raven",
+      "common-raven"
+    ]
   },
   {
     "id": 373,
@@ -14526,7 +15058,11 @@
       "mic": "Telinga PRO-X",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/933631/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/933631/download",
+    "common_names": [
+      "common sandpiper",
+      "common-sandpiper"
+    ]
   },
   {
     "id": 92,
@@ -14650,7 +15186,11 @@
       "mic": "interne ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952809/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952809/download",
+    "common_names": [
+      "common starling",
+      "common-starling"
+    ]
   },
   {
     "id": 93,
@@ -14774,7 +15314,11 @@
       "mic": "sennheiser m67",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941109/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941109/download",
+    "common_names": [
+      "common swift",
+      "common-swift"
+    ]
   },
   {
     "id": 374,
@@ -14891,7 +15435,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950611/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950611/download",
+    "common_names": [
+      "common tailorbird",
+      "common-tailorbird"
+    ]
   },
   {
     "id": 375,
@@ -15006,7 +15554,11 @@
       "mic": " ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/948621/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/948621/download",
+    "common_names": [
+      "common teal",
+      "common-teal"
+    ]
   },
   {
     "id": 94,
@@ -15132,7 +15684,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/559484/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/559484/download",
+    "common_names": [
+      "common yellowthroat",
+      "common-yellowthroat"
+    ]
   },
   {
     "id": 95,
@@ -15242,7 +15798,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/554004/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/554004/download",
+    "common_names": [
+      "cooper's hawk",
+      "coopers hawk",
+      "cooper's-hawk"
+    ]
   },
   {
     "id": 376,
@@ -15361,7 +15922,11 @@
       "mic": "telinga pro 9 mkII",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952352/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952352/download",
+    "common_names": [
+      "coppersmith barbet",
+      "coppersmith-barbet"
+    ]
   },
   {
     "id": 96,
@@ -15480,7 +16045,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/471647/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/471647/download",
+    "common_names": [
+      "corsican nuthatch",
+      "corsican-nuthatch"
+    ]
   },
   {
     "id": 281,
@@ -15599,7 +16168,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/408402/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/408402/download",
+    "common_names": [
+      "count raggi's bird-of-paradise",
+      "count raggis birdofparadise",
+      "count-raggi's-bird-of-paradise",
+      "count raggi's bird of paradise"
+    ]
   },
   {
     "id": 377,
@@ -15720,7 +16295,11 @@
       "mic": "Schoeps Cmit 5U",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/777635/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/777635/download",
+    "common_names": [
+      "crested ibis",
+      "crested-ibis"
+    ]
   },
   {
     "id": 378,
@@ -15839,7 +16418,11 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951001/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951001/download",
+    "common_names": [
+      "crested lark",
+      "crested-lark"
+    ]
   },
   {
     "id": 282,
@@ -15949,7 +16532,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/692682/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/692682/download",
+    "common_names": [
+      "crested pigeon",
+      "crested-pigeon"
+    ]
   },
   {
     "id": 283,
@@ -16064,7 +16651,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/689105/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/689105/download",
+    "common_names": [
+      "crimson chat",
+      "crimson-chat"
+    ]
   },
   {
     "id": 97,
@@ -16185,7 +16776,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/554463/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/554463/download",
+    "common_names": [
+      "dark-eyed junco",
+      "darkeyed junco",
+      "dark-eyed-junco",
+      "dark eyed junco"
+    ]
   },
   {
     "id": 379,
@@ -16300,7 +16897,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/471597/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/471597/download",
+    "common_names": [
+      "desert finch",
+      "desert-finch"
+    ]
   },
   {
     "id": 380,
@@ -16419,7 +17020,11 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951321/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951321/download",
+    "common_names": [
+      "desert wheatear",
+      "desert-wheatear"
+    ]
   },
   {
     "id": 98,
@@ -16539,7 +17144,10 @@
       "mic": "Wildtronics parabola",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/936318/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/936318/download",
+    "common_names": [
+      "dickcissel"
+    ]
   },
   {
     "id": 99,
@@ -16604,6 +17212,12 @@
         "text": "<i>\"Discarding\"</i> food while resolving a bird power counts as <i>\"spending\"</i>.",
         "source": "https://www.discord.com/channels/608588053052653580/693358238439047229/778341560205967380"
       }
+    ],
+    "common_names": [
+      "double-crested cormorant",
+      "doublecrested cormorant",
+      "double-crested-cormorant",
+      "double crested cormorant"
     ]
   },
   {
@@ -16669,7 +17283,11 @@
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-31474"
       }
     ],
-    "additionalrulings": []
+    "additionalrulings": [],
+    "common_names": [
+      "downy woodpecker",
+      "downy-woodpecker"
+    ]
   },
   {
     "id": 101,
@@ -16784,7 +17402,10 @@
       "mic": "interne ",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952624/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952624/download",
+    "common_names": [
+      "dunnock"
+    ]
   },
   {
     "id": 102,
@@ -16899,7 +17520,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/545801/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/545801/download",
+    "common_names": [
+      "eastern bluebird",
+      "eastern-bluebird"
+    ]
   },
   {
     "id": 103,
@@ -17019,7 +17644,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/731082/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/731082/download",
+    "common_names": [
+      "eastern imperial eagle",
+      "eastern-imperial-eagle"
+    ]
   },
   {
     "id": 104,
@@ -17166,7 +17795,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/343544/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/343544/download",
+    "common_names": [
+      "eastern kingbird",
+      "eastern-kingbird"
+    ]
   },
   {
     "id": 105,
@@ -17287,7 +17920,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/566104/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/566104/download",
+    "common_names": [
+      "eastern phoebe",
+      "eastern-phoebe"
+    ]
   },
   {
     "id": 284,
@@ -17413,7 +18050,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/921799/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/921799/download",
+    "common_names": [
+      "eastern rosella",
+      "eastern-rosella"
+    ]
   },
   {
     "id": 106,
@@ -17523,7 +18164,11 @@
       "mic": "iPhone 13",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941050/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941050/download",
+    "common_names": [
+      "eastern screech owl",
+      "eastern-screech-owl"
+    ]
   },
   {
     "id": 285,
@@ -17642,7 +18287,11 @@
       "mic": "Tascam DR-100mkIII",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/871207/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/871207/download",
+    "common_names": [
+      "eastern whipbird",
+      "eastern-whipbird"
+    ]
   },
   {
     "id": 107,
@@ -17757,7 +18406,12 @@
       "mic": "ME66",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/893155/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/893155/download",
+    "common_names": [
+      "eleonora's falcon",
+      "eleonoras falcon",
+      "eleonora's-falcon"
+    ]
   },
   {
     "id": 286,
@@ -17881,7 +18535,10 @@
       "mic": "Parabolic reflector with Schoeps microphone",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/825159/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/825159/download",
+    "common_names": [
+      "emu"
+    ]
   },
   {
     "id": 108,
@@ -18005,7 +18662,13 @@
       "mic": "interne ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952816/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952816/download",
+    "common_names": [
+      "eurasian collared-dove",
+      "eurasian collareddove",
+      "eurasian-collared-dove",
+      "eurasian collared dove"
+    ]
   },
   {
     "id": 381,
@@ -18115,7 +18778,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/929858/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/929858/download",
+    "common_names": [
+      "eurasian coot",
+      "eurasian-coot"
+    ]
   },
   {
     "id": 382,
@@ -18230,7 +18897,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952821/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952821/download",
+    "common_names": [
+      "eurasian eagle-owl",
+      "eurasian eagleowl",
+      "eurasian-eagle-owl",
+      "eurasian eagle owl"
+    ]
   },
   {
     "id": 109,
@@ -18370,7 +19043,11 @@
       "mic": "Seinnheiser",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938595/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938595/download",
+    "common_names": [
+      "eurasian golden oriole",
+      "eurasian-golden-oriole"
+    ]
   },
   {
     "id": 110,
@@ -18494,7 +19171,11 @@
       "mic": "Sennheiser MKH416",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/947568/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/947568/download",
+    "common_names": [
+      "eurasian green woodpecker",
+      "eurasian-green-woodpecker"
+    ]
   },
   {
     "id": 111,
@@ -18626,7 +19307,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/933041/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/933041/download",
+    "common_names": [
+      "eurasian hobby",
+      "eurasian-hobby"
+    ]
   },
   {
     "id": 383,
@@ -18744,7 +19429,11 @@
       "mic": "no",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941876/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941876/download",
+    "common_names": [
+      "eurasian hoopoe",
+      "eurasian-hoopoe"
+    ]
   },
   {
     "id": 112,
@@ -18868,7 +19557,11 @@
       "mic": "Parabolic microphone by Dodotronic",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/945806/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/945806/download",
+    "common_names": [
+      "eurasian jay",
+      "eurasian-jay"
+    ]
   },
   {
     "id": 384,
@@ -18978,7 +19671,11 @@
       "mic": "Song Meter Micro 2",
       "smp": "24000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952453/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952453/download",
+    "common_names": [
+      "eurasian kestrel",
+      "eurasian-kestrel"
+    ]
   },
   {
     "id": 113,
@@ -19088,7 +19785,11 @@
       "mic": "Built in",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952664/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952664/download",
+    "common_names": [
+      "eurasian magpie",
+      "eurasian-magpie"
+    ]
   },
   {
     "id": 385,
@@ -19207,7 +19908,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/946992/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/946992/download",
+    "common_names": [
+      "eurasian marsh-harrier",
+      "eurasian marshharrier",
+      "eurasian-marsh-harrier",
+      "eurasian marsh harrier"
+    ]
   },
   {
     "id": 114,
@@ -19319,7 +20026,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/931646/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/931646/download",
+    "common_names": [
+      "eurasian nutcracker",
+      "eurasian-nutcracker"
+    ]
   },
   {
     "id": 115,
@@ -19455,7 +20166,11 @@
       "mic": "internal",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952658/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952658/download",
+    "common_names": [
+      "eurasian nuthatch",
+      "eurasian-nuthatch"
+    ]
   },
   {
     "id": 116,
@@ -19575,7 +20290,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935640/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935640/download",
+    "common_names": [
+      "eurasian sparrowhawk",
+      "eurasian-sparrowhawk"
+    ]
   },
   {
     "id": 117,
@@ -19710,7 +20429,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/944312/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/944312/download",
+    "common_names": [
+      "eurasian tree sparrow",
+      "eurasian-tree-sparrow"
+    ]
   },
   {
     "id": 386,
@@ -19829,7 +20552,11 @@
       "mic": "Wildtronics stereo pip",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/943079/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/943079/download",
+    "common_names": [
+      "eurasian treecreeper",
+      "eurasian-treecreeper"
+    ]
   },
   {
     "id": 118,
@@ -19948,7 +20675,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941271/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941271/download",
+    "common_names": [
+      "european bee-eater",
+      "european beeeater",
+      "european-bee-eater",
+      "european bee eater"
+    ]
   },
   {
     "id": 119,
@@ -20080,7 +20813,11 @@
       "mic": "interne ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952818/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952818/download",
+    "common_names": [
+      "european goldfinch",
+      "european-goldfinch"
+    ]
   },
   {
     "id": 120,
@@ -20204,7 +20941,11 @@
       "mic": "AOM 5024L",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/936865/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/936865/download",
+    "common_names": [
+      "european honey buzzard",
+      "european-honey-buzzard"
+    ]
   },
   {
     "id": 121,
@@ -20323,7 +21064,11 @@
       "mic": "interne ",
       "smp": "32000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952711/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952711/download",
+    "common_names": [
+      "european robin",
+      "european-robin"
+    ]
   },
   {
     "id": 122,
@@ -20443,7 +21188,11 @@
       "mic": "Sennheiser MKE 600",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/924564/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/924564/download",
+    "common_names": [
+      "european roller",
+      "european-roller"
+    ]
   },
   {
     "id": 123,
@@ -20562,7 +21311,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/927930/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/927930/download",
+    "common_names": [
+      "european turtle dove",
+      "european-turtle-dove"
+    ]
   },
   {
     "id": 124,
@@ -20674,7 +21427,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/419204/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/419204/download",
+    "common_names": [
+      "ferruginous hawk",
+      "ferruginous-hawk"
+    ]
   },
   {
     "id": 387,
@@ -20789,7 +21546,13 @@
       "mic": "",
       "smp": "16000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/912585/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/912585/download",
+    "common_names": [
+      "fire-fronted serin",
+      "firefronted serin",
+      "fire-fronted-serin",
+      "fire fronted serin"
+    ]
   },
   {
     "id": 125,
@@ -20912,7 +21675,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/459772/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/459772/download",
+    "common_names": [
+      "fish crow",
+      "fish-crow"
+    ]
   },
   {
     "id": 388,
@@ -21022,7 +21789,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/779855/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/779855/download",
+    "common_names": [
+      "forest owlet",
+      "forest-owlet"
+    ]
   },
   {
     "id": 126,
@@ -21145,7 +21916,12 @@
       "mic": "Sennheiser K6 ME67 mic, Shotgun Classic-Softie Windshield",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/924728/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/924728/download",
+    "common_names": [
+      "forster's tern",
+      "forsters tern",
+      "forster's-tern"
+    ]
   },
   {
     "id": 127,
@@ -21264,7 +22040,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/877016/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/877016/download",
+    "common_names": [
+      "franklin's gull",
+      "franklins gull",
+      "franklin's-gull"
+    ]
   },
   {
     "id": 287,
@@ -21379,7 +22160,10 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935909/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935909/download",
+    "common_names": [
+      "galah"
+    ]
   },
   {
     "id": 128,
@@ -21501,7 +22285,10 @@
       "mic": "Stereo EM272 capsules",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952469/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952469/download",
+    "common_names": [
+      "goldcrest"
+    ]
   },
   {
     "id": 129,
@@ -21616,7 +22403,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/937638/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/937638/download",
+    "common_names": [
+      "golden eagle",
+      "golden-eagle"
+    ]
   },
   {
     "id": 389,
@@ -21731,7 +22522,11 @@
       "mic": "ZOOM SSH6",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/908427/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/908427/download",
+    "common_names": [
+      "golden pheasant",
+      "golden-pheasant"
+    ]
   },
   {
     "id": 288,
@@ -21846,7 +22641,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/918641/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/918641/download",
+    "common_names": [
+      "golden-headed cisticola",
+      "goldenheaded cisticola",
+      "golden-headed-cisticola",
+      "golden headed cisticola"
+    ]
   },
   {
     "id": 289,
@@ -21911,6 +22712,11 @@
         "text": "You may substitute 2 [wild] for any 1 food in a bird's food cost whenever you play a bird, including outside the scope of the <i>\"play a bird\"</i> action.",
         "source": "https://www.facebook.com/groups/wingspanboardgame/?post_id=592455651458041&comment_id=592685648101708&reply_comment_id=592771751426431"
       }
+    ],
+    "common_names": [
+      "gould's finch",
+      "goulds finch",
+      "gould's-finch"
     ]
   },
   {
@@ -22034,7 +22840,11 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951377/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951377/download",
+    "common_names": [
+      "graceful prinia",
+      "graceful-prinia"
+    ]
   },
   {
     "id": 391,
@@ -22144,7 +22954,10 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/110771/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/110771/download",
+    "common_names": [
+      "grandala"
+    ]
   },
   {
     "id": 130,
@@ -22259,7 +23072,11 @@
       "mic": "Sennheiser K6 ME67 mic, Shotgun Classic-Softie Windshield",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/919138/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/919138/download",
+    "common_names": [
+      "grasshopper sparrow",
+      "grasshopper-sparrow"
+    ]
   },
   {
     "id": 131,
@@ -22378,7 +23195,11 @@
       "mic": "",
       "smp": "16000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/559775/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/559775/download",
+    "common_names": [
+      "gray catbird",
+      "gray-catbird"
+    ]
   },
   {
     "id": 392,
@@ -22497,7 +23318,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952589/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952589/download",
+    "common_names": [
+      "gray wagtail",
+      "gray-wagtail"
+    ]
   },
   {
     "id": 132,
@@ -22612,7 +23437,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/560546/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/560546/download",
+    "common_names": [
+      "great blue heron",
+      "great-blue-heron"
+    ]
   },
   {
     "id": 393,
@@ -22722,7 +23551,11 @@
       "mic": "Tascam ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/948759/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/948759/download",
+    "common_names": [
+      "great cormorant",
+      "great-cormorant"
+    ]
   },
   {
     "id": 133,
@@ -22846,7 +23679,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/924423/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/924423/download",
+    "common_names": [
+      "great crested flycatcher",
+      "great-crested-flycatcher"
+    ]
   },
   {
     "id": 134,
@@ -22980,7 +23817,11 @@
       "mic": "Dodotronic Hi-Sound Stereo",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/892077/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/892077/download",
+    "common_names": [
+      "great crested grebe",
+      "great-crested-grebe"
+    ]
   },
   {
     "id": 135,
@@ -23097,7 +23938,11 @@
       "mic": "None",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941258/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941258/download",
+    "common_names": [
+      "great egret",
+      "great-egret"
+    ]
   },
   {
     "id": 394,
@@ -23207,7 +24052,11 @@
       "mic": "Sennheiser ME300",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/883592/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/883592/download",
+    "common_names": [
+      "great hornbill",
+      "great-hornbill"
+    ]
   },
   {
     "id": 136,
@@ -23317,7 +24166,11 @@
       "mic": "Parabólica GM1 Boya BYm1",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/902638/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/902638/download",
+    "common_names": [
+      "great horned owl",
+      "great-horned-owl"
+    ]
   },
   {
     "id": 395,
@@ -23377,7 +24230,11 @@
     "beak_pointing_right": "X",
     "note": "These powers use cached food to record how many points a bonus card is worth at the time of activation. It is normal cached food for other purposes, such as the Pellet Dissector bonus card.",
     "rulings": [],
-    "additionalrulings": []
+    "additionalrulings": [],
+    "common_names": [
+      "great indian bustard",
+      "great-indian-bustard"
+    ]
   },
   {
     "id": 396,
@@ -23496,7 +24353,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952225/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952225/download",
+    "common_names": [
+      "great spotted woodpecker",
+      "great-spotted-woodpecker"
+    ]
   },
   {
     "id": 137,
@@ -23615,7 +24476,11 @@
       "mic": "interne ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952817/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952817/download",
+    "common_names": [
+      "great tit",
+      "great-tit"
+    ]
   },
   {
     "id": 397,
@@ -23675,7 +24540,11 @@
     "beak_pointing_right": "X",
     "note": "If you are playing with bonus cards hidden from other players, when this power is activated, the player reveals to you their bonus cards.<br>In a 2-player game, the Greater Adjutant and the Indian Vulture may both copy the same bonus card.",
     "rulings": [],
-    "additionalrulings": []
+    "additionalrulings": [],
+    "common_names": [
+      "greater adjutant",
+      "greater-adjutant"
+    ]
   },
   {
     "id": 138,
@@ -23799,7 +24668,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/933727/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/933727/download",
+    "common_names": [
+      "greater flamingo",
+      "greater-flamingo"
+    ]
   },
   {
     "id": 139,
@@ -23923,7 +24796,11 @@
       "mic": "iPhone 13",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/940564/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/940564/download",
+    "common_names": [
+      "greater prairie chicken",
+      "greater-prairie-chicken"
+    ]
   },
   {
     "id": 140,
@@ -24033,7 +24910,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/542593/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/542593/download",
+    "common_names": [
+      "greater roadrunner",
+      "greater-roadrunner"
+    ]
   },
   {
     "id": 398,
@@ -24145,7 +25026,13 @@
       "mic": "telinga pro 9 mkII",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950061/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950061/download",
+    "common_names": [
+      "green bee-eater",
+      "green beeeater",
+      "green-bee-eater",
+      "green bee eater"
+    ]
   },
   {
     "id": 141,
@@ -24264,7 +25151,11 @@
       "mic": "Sennheiser K6 ME67 mic, Shotgun Classic-Softie Windshield",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/932390/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/932390/download",
+    "common_names": [
+      "green heron",
+      "green-heron"
+    ]
   },
   {
     "id": 399,
@@ -24379,7 +25270,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/282185/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/282185/download",
+    "common_names": [
+      "green pheasant",
+      "green-pheasant"
+    ]
   },
   {
     "id": 290,
@@ -24494,7 +25389,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/503285/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/503285/download",
+    "common_names": [
+      "green pygmy-goose",
+      "green pygmygoose",
+      "green-pygmy-goose",
+      "green pygmy goose"
+    ]
   },
   {
     "id": 291,
@@ -24604,7 +25505,11 @@
       "mic": "DPA4060 x2",
       "smp": "192000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/930144/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/930144/download",
+    "common_names": [
+      "grey butcherbird",
+      "grey-butcherbird"
+    ]
   },
   {
     "id": 142,
@@ -24724,7 +25629,11 @@
       "mic": "Telinga Pro-X",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/947947/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/947947/download",
+    "common_names": [
+      "grey heron",
+      "grey-heron"
+    ]
   },
   {
     "id": 292,
@@ -24839,7 +25748,11 @@
       "mic": "sennheiser mkh 8090  x 2",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/947051/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/947051/download",
+    "common_names": [
+      "grey shrikethrush",
+      "grey-shrikethrush"
+    ]
   },
   {
     "id": 293,
@@ -24952,7 +25865,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/673015/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/673015/download",
+    "common_names": [
+      "grey teal",
+      "grey-teal"
+    ]
   },
   {
     "id": 294,
@@ -25067,7 +25984,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/506502/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/506502/download",
+    "common_names": [
+      "grey warbler",
+      "grey-warbler"
+    ]
   },
   {
     "id": 295,
@@ -25182,7 +26103,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/601961/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/601961/download",
+    "common_names": [
+      "grey-headed mannikin",
+      "greyheaded mannikin",
+      "grey-headed-mannikin",
+      "grey headed mannikin"
+    ]
   },
   {
     "id": 143,
@@ -25306,7 +26233,11 @@
       "mic": "",
       "smp": "32000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/947665/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/947665/download",
+    "common_names": [
+      "greylag goose",
+      "greylag-goose"
+    ]
   },
   {
     "id": 144,
@@ -25416,7 +26347,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/423962/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/423962/download",
+    "common_names": [
+      "griffon vulture",
+      "griffon-vulture"
+    ]
   },
   {
     "id": 145,
@@ -25538,7 +26473,10 @@
       "mic": "built-in microphone",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952500/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952500/download",
+    "common_names": [
+      "hawfinch"
+    ]
   },
   {
     "id": 146,
@@ -25657,7 +26595,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/575040/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/575040/download",
+    "common_names": [
+      "hermit thrush",
+      "hermit-thrush"
+    ]
   },
   {
     "id": 400,
@@ -25776,7 +26718,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/523178/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/523178/download",
+    "common_names": [
+      "himalayan monal",
+      "himalayan-monal"
+    ]
   },
   {
     "id": 147,
@@ -25896,7 +26842,11 @@
       "mic": "Built in",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/949860/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/949860/download",
+    "common_names": [
+      "hooded crow",
+      "hooded-crow"
+    ]
   },
   {
     "id": 148,
@@ -26019,7 +26969,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/317868/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/317868/download",
+    "common_names": [
+      "hooded merganser",
+      "hooded-merganser"
+    ]
   },
   {
     "id": 149,
@@ -26129,7 +27083,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/570957/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/570957/download",
+    "common_names": [
+      "hooded warbler",
+      "hooded-warbler"
+    ]
   },
   {
     "id": 150,
@@ -26261,7 +27219,11 @@
       "mic": "Wildtronics stereo pip",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/943025/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/943025/download",
+    "common_names": [
+      "horned lark",
+      "horned-lark"
+    ]
   },
   {
     "id": 296,
@@ -26392,7 +27354,13 @@
       "mic": "Rode NTG5",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/924314/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/924314/download",
+    "common_names": [
+      "horsfield's bronze-cuckoo",
+      "horsfields bronzecuckoo",
+      "horsfield's-bronze-cuckoo",
+      "horsfield's bronze cuckoo"
+    ]
   },
   {
     "id": 297,
@@ -26511,7 +27479,12 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950961/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950961/download",
+    "common_names": [
+      "horsfield's bushlark",
+      "horsfields bushlark",
+      "horsfield's-bushlark"
+    ]
   },
   {
     "id": 401,
@@ -26621,7 +27594,11 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951396/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951396/download",
+    "common_names": [
+      "house crow",
+      "house-crow"
+    ]
   },
   {
     "id": 151,
@@ -26736,7 +27713,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/531575/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/531575/download",
+    "common_names": [
+      "house finch",
+      "house-finch"
+    ]
   },
   {
     "id": 152,
@@ -26860,7 +27841,11 @@
       "mic": "Sennheiser MKE600",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952772/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952772/download",
+    "common_names": [
+      "house sparrow",
+      "house-sparrow"
+    ]
   },
   {
     "id": 153,
@@ -26979,7 +27964,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/558995/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/558995/download",
+    "common_names": [
+      "house wren",
+      "house-wren"
+    ]
   },
   {
     "id": 402,
@@ -27098,7 +28087,10 @@
       "mic": "Schoeps Dish System / AT 4022",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/767516/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/767516/download",
+    "common_names": [
+      "ibisbill"
+    ]
   },
   {
     "id": 154,
@@ -27213,7 +28205,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/523085/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/523085/download",
+    "common_names": [
+      "inca dove",
+      "inca-dove"
+    ]
   },
   {
     "id": 403,
@@ -27328,7 +28324,11 @@
       "mic": "Telinga Parabolic Microphone",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952178/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952178/download",
+    "common_names": [
+      "indian peafowl",
+      "indian-peafowl"
+    ]
   },
   {
     "id": 404,
@@ -27438,7 +28438,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/351085/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/351085/download",
+    "common_names": [
+      "indian vulture",
+      "indian-vulture"
+    ]
   },
   {
     "id": 155,
@@ -27562,7 +28566,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941144/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941144/download",
+    "common_names": [
+      "indigo bunting",
+      "indigo-bunting"
+    ]
   },
   {
     "id": 156,
@@ -27672,7 +28680,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/550630/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/550630/download",
+    "common_names": [
+      "juniper titmouse",
+      "juniper-titmouse"
+    ]
   },
   {
     "id": 298,
@@ -27791,7 +28803,10 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/405529/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/405529/download",
+    "common_names": [
+      "kea"
+    ]
   },
   {
     "id": 299,
@@ -27910,7 +28925,11 @@
       "mic": "Telinga Parabola",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/925401/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/925401/download",
+    "common_names": [
+      "kelp gull",
+      "kelp-gull"
+    ]
   },
   {
     "id": 300,
@@ -28035,7 +29054,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/293310/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/293310/download",
+    "common_names": [
+      "kererū",
+      "kerer"
+    ]
   },
   {
     "id": 157,
@@ -28154,7 +29177,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/928907/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/928907/download",
+    "common_names": [
+      "killdeer"
+    ]
   },
   {
     "id": 158,
@@ -28271,7 +29297,11 @@
       "mic": "Sennheiser ME66",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/906423/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/906423/download",
+    "common_names": [
+      "king rail",
+      "king-rail"
+    ]
   },
   {
     "id": 301,
@@ -28394,7 +29424,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/925267/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/925267/download",
+    "common_names": [
+      "korimako"
+    ]
   },
   {
     "id": 302,
@@ -28509,7 +29542,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/295659/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/295659/download",
+    "common_names": [
+      "kākāpō",
+      "kkp"
+    ]
   },
   {
     "id": 405,
@@ -28619,7 +29656,13 @@
       "mic": "Sennheiser MKH416",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941326/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941326/download",
+    "common_names": [
+      "large-billed crow",
+      "largebilled crow",
+      "large-billed-crow",
+      "large billed crow"
+    ]
   },
   {
     "id": 303,
@@ -28734,7 +29777,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/937218/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/937218/download",
+    "common_names": [
+      "laughing kookaburra",
+      "laughing-kookaburra"
+    ]
   },
   {
     "id": 159,
@@ -28854,7 +29901,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/570661/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/570661/download",
+    "common_names": [
+      "lazuli bunting",
+      "lazuli-bunting"
+    ]
   },
   {
     "id": 304,
@@ -28927,6 +29978,10 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "lesser frigatebird",
+      "lesser-frigatebird"
     ]
   },
   {
@@ -28992,6 +30047,10 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "lesser whitethroat",
+      "lesser-whitethroat"
     ]
   },
   {
@@ -29116,7 +30175,12 @@
       "mic": "Rode NTG2",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/836021/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/836021/download",
+    "common_names": [
+      "lewin's honeyeater",
+      "lewins honeyeater",
+      "lewin's-honeyeater"
+    ]
   },
   {
     "id": 161,
@@ -29231,7 +30295,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/558323/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/558323/download",
+    "common_names": [
+      "lincoln's sparrow",
+      "lincolns sparrow",
+      "lincoln's-sparrow"
+    ]
   },
   {
     "id": 162,
@@ -29346,7 +30415,11 @@
       "mic": "parabole stéréo 2x primo EM272",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/917398/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/917398/download",
+    "common_names": [
+      "little bustard",
+      "little-bustard"
+    ]
   },
   {
     "id": 406,
@@ -29461,7 +30534,11 @@
       "mic": "Tascam ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/948751/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/948751/download",
+    "common_names": [
+      "little egret",
+      "little-egret"
+    ]
   },
   {
     "id": 407,
@@ -29576,7 +30653,11 @@
       "mic": "3D打印集音罩",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/925232/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/925232/download",
+    "common_names": [
+      "little grebe",
+      "little-grebe"
+    ]
   },
   {
     "id": 163,
@@ -29695,7 +30776,11 @@
       "mic": "Mamen MIC-8",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952597/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952597/download",
+    "common_names": [
+      "little owl",
+      "little-owl"
+    ]
   },
   {
     "id": 306,
@@ -29816,7 +30901,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/926910/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/926910/download",
+    "common_names": [
+      "little penguin",
+      "little-penguin"
+    ]
   },
   {
     "id": 307,
@@ -29935,7 +31024,11 @@
       "mic": "Rode VideoMic NTG",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/794988/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/794988/download",
+    "common_names": [
+      "little pied cormorant",
+      "little-pied-cormorant"
+    ]
   },
   {
     "id": 408,
@@ -30054,7 +31147,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/942988/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/942988/download",
+    "common_names": [
+      "little ringed plover",
+      "little-ringed-plover"
+    ]
   },
   {
     "id": 164,
@@ -30191,7 +31288,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/297969/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/297969/download",
+    "common_names": [
+      "loggerhead shrike",
+      "loggerhead-shrike"
+    ]
   },
   {
     "id": 165,
@@ -30315,7 +31416,13 @@
       "mic": "interne ",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952613/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952613/download",
+    "common_names": [
+      "long-tailed tit",
+      "longtailed tit",
+      "long-tailed-tit",
+      "long tailed tit"
+    ]
   },
   {
     "id": 308,
@@ -30434,7 +31541,12 @@
       "mic": "sennheiser mkh 8090  x 2",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/947052/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/947052/download",
+    "common_names": [
+      "magpie-lark",
+      "magpielark",
+      "magpie lark"
+    ]
   },
   {
     "id": 309,
@@ -30555,7 +31667,12 @@
       "mic": "sennheiser mkh 8090  x 2",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/947049/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/947049/download",
+    "common_names": [
+      "major mitchell's cockatoo",
+      "major mitchells cockatoo",
+      "major-mitchell's-cockatoo"
+    ]
   },
   {
     "id": 166,
@@ -30670,7 +31787,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/946815/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/946815/download",
+    "common_names": [
+      "mallard"
+    ]
   },
   {
     "id": 310,
@@ -30791,7 +31911,10 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/917150/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/917150/download",
+    "common_names": [
+      "malleefowl"
+    ]
   },
   {
     "id": 409,
@@ -30906,7 +32029,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/936122/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/936122/download",
+    "common_names": [
+      "mandarin duck",
+      "mandarin-duck"
+    ]
   },
   {
     "id": 311,
@@ -31027,7 +32154,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/922811/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/922811/download",
+    "common_names": [
+      "maned duck",
+      "maned-duck"
+    ]
   },
   {
     "id": 312,
@@ -31146,7 +32277,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/109069/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/109069/download",
+    "common_names": [
+      "many-colored fruit dove",
+      "manycolored fruit dove",
+      "many-colored-fruit-dove",
+      "many colored fruit dove"
+    ]
   },
   {
     "id": 313,
@@ -31261,7 +32398,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935906/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935906/download",
+    "common_names": [
+      "masked lapwing",
+      "masked-lapwing"
+    ]
   },
   {
     "id": 167,
@@ -31371,7 +32512,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/469277/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/469277/download",
+    "common_names": [
+      "mississippi kite",
+      "mississippi-kite"
+    ]
   },
   {
     "id": 314,
@@ -31494,7 +32639,10 @@
       "mic": "Sennheiser ME66",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935475/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935475/download",
+    "common_names": [
+      "mistletoebird"
+    ]
   },
   {
     "id": 168,
@@ -31564,6 +32712,11 @@
         "text": "You may substitute 2 [wild] for any 1 food in a bird's food cost whenever you play a bird, including outside the scope of the <i>\"play a bird\"</i> action.",
         "source": "https://www.facebook.com/groups/wingspanboardgame/?post_id=592455651458041&comment_id=592685648101708&reply_comment_id=592771751426431"
       }
+    ],
+    "common_names": [
+      "moltoni's warbler",
+      "moltonis warbler",
+      "moltoni's-warbler"
     ]
   },
   {
@@ -31705,7 +32858,12 @@
       "mic": "Sennheiser ME66/K6",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/921847/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/921847/download",
+    "common_names": [
+      "montagu's harrier",
+      "montagus harrier",
+      "montagu's-harrier"
+    ]
   },
   {
     "id": 170,
@@ -31820,7 +32978,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/441351/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/441351/download",
+    "common_names": [
+      "mountain bluebird",
+      "mountain-bluebird"
+    ]
   },
   {
     "id": 171,
@@ -31932,7 +33094,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/349466/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/349466/download",
+    "common_names": [
+      "mountain chickadee",
+      "mountain-chickadee"
+    ]
   },
   {
     "id": 172,
@@ -32054,7 +33220,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/545012/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/545012/download",
+    "common_names": [
+      "mourning dove",
+      "mourning-dove"
+    ]
   },
   {
     "id": 315,
@@ -32169,7 +33339,11 @@
       "mic": "Telinga Pro-X",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/859681/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/859681/download",
+    "common_names": [
+      "musk duck",
+      "musk-duck"
+    ]
   },
   {
     "id": 173,
@@ -32289,7 +33463,11 @@
       "mic": "Parabolic microphone by Dodotronic",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/925704/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/925704/download",
+    "common_names": [
+      "mute swan",
+      "mute-swan"
+    ]
   },
   {
     "id": 316,
@@ -32415,7 +33593,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/921737/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/921737/download",
+    "common_names": [
+      "new holland honeyeater",
+      "new-holland-honeyeater"
+    ]
   },
   {
     "id": 317,
@@ -32530,7 +33712,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/937183/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/937183/download",
+    "common_names": [
+      "noisy miner",
+      "noisy-miner"
+    ]
   },
   {
     "id": 318,
@@ -32645,7 +33831,11 @@
       "mic": "Sennheiser ME66",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/794785/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/794785/download",
+    "common_names": [
+      "north island brown kiwi",
+      "north-island-brown-kiwi"
+    ]
   },
   {
     "id": 174,
@@ -32767,7 +33957,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/919215/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/919215/download",
+    "common_names": [
+      "northern bobwhite",
+      "northern-bobwhite"
+    ]
   },
   {
     "id": 175,
@@ -32889,7 +34083,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/468374/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/468374/download",
+    "common_names": [
+      "northern cardinal",
+      "northern-cardinal"
+    ]
   },
   {
     "id": 176,
@@ -33012,7 +34210,11 @@
       "mic": "Wildtronics parabola",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941347/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941347/download",
+    "common_names": [
+      "northern flicker",
+      "northern-flicker"
+    ]
   },
   {
     "id": 177,
@@ -33131,7 +34333,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/438348/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/438348/download",
+    "common_names": [
+      "northern gannet",
+      "northern-gannet"
+    ]
   },
   {
     "id": 178,
@@ -33251,7 +34457,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952823/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952823/download",
+    "common_names": [
+      "northern goshawk",
+      "northern-goshawk"
+    ]
   },
   {
     "id": 179,
@@ -33363,7 +34573,11 @@
       "mic": "built-in microphone",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/945791/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/945791/download",
+    "common_names": [
+      "northern harrier",
+      "northern-harrier"
+    ]
   },
   {
     "id": 180,
@@ -33482,7 +34696,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/559555/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/559555/download",
+    "common_names": [
+      "northern mockingbird",
+      "northern-mockingbird"
+    ]
   },
   {
     "id": 181,
@@ -33599,7 +34817,11 @@
       "mic": "SM4 ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/914300/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/914300/download",
+    "common_names": [
+      "northern shoveler",
+      "northern-shoveler"
+    ]
   },
   {
     "id": 410,
@@ -33718,7 +34940,13 @@
       "mic": "telinga pro 9 mkII",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952351/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952351/download",
+    "common_names": [
+      "olive-backed sunbird",
+      "olivebacked sunbird",
+      "olive-backed-sunbird",
+      "olive backed sunbird"
+    ]
   },
   {
     "id": 319,
@@ -33833,7 +35061,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/854451/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/854451/download",
+    "common_names": [
+      "orange-footed scrubfowl",
+      "orangefooted scrubfowl",
+      "orange-footed-scrubfowl",
+      "orange footed scrubfowl"
+    ]
   },
   {
     "id": 411,
@@ -33943,7 +35177,13 @@
       "mic": "Sennheiser MKH416",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935999/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935999/download",
+    "common_names": [
+      "oriental bay-owl",
+      "oriental bayowl",
+      "oriental-bay-owl",
+      "oriental bay owl"
+    ]
   },
   {
     "id": 412,
@@ -34062,7 +35302,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:"
+    "frontend_sound_url": "https:",
+    "common_names": [
+      "oriental magpie-robin",
+      "oriental magpierobin",
+      "oriental-magpie-robin",
+      "oriental magpie robin"
+    ]
   },
   {
     "id": 182,
@@ -34181,7 +35427,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/930122/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/930122/download",
+    "common_names": [
+      "osprey"
+    ]
   },
   {
     "id": 320,
@@ -34296,7 +35545,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/611320/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/611320/download",
+    "common_names": [
+      "pacific black duck",
+      "pacific-black-duck"
+    ]
   },
   {
     "id": 183,
@@ -34411,7 +35664,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/568134/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/568134/download",
+    "common_names": [
+      "painted bunting",
+      "painted-bunting"
+    ]
   },
   {
     "id": 184,
@@ -34535,7 +35792,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/554531/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/554531/download",
+    "common_names": [
+      "painted whitestart",
+      "painted-whitestart"
+    ]
   },
   {
     "id": 185,
@@ -34654,7 +35915,11 @@
       "mic": "SGH-6 Shotgun Microphone",
       "smp": "32000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/937857/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/937857/download",
+    "common_names": [
+      "parrot crossbill",
+      "parrot-crossbill"
+    ]
   },
   {
     "id": 321,
@@ -34775,7 +36040,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/871229/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/871229/download",
+    "common_names": [
+      "peaceful dove",
+      "peaceful-dove"
+    ]
   },
   {
     "id": 186,
@@ -34885,7 +36154,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/942609/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/942609/download",
+    "common_names": [
+      "peregrine falcon",
+      "peregrine-falcon"
+    ]
   },
   {
     "id": 322,
@@ -35004,7 +36277,12 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/742001/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/742001/download",
+    "common_names": [
+      "pesquet's parrot",
+      "pesquets parrot",
+      "pesquet's-parrot"
+    ]
   },
   {
     "id": 323,
@@ -35135,7 +36413,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/816172/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/816172/download",
+    "common_names": [
+      "pheasant coucal",
+      "pheasant-coucal"
+    ]
   },
   {
     "id": 413,
@@ -35250,7 +36532,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/379328/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/379328/download",
+    "common_names": [
+      "philippine eagle",
+      "philippine-eagle"
+    ]
   },
   {
     "id": 187,
@@ -35375,7 +36661,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/542620/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/542620/download",
+    "common_names": [
+      "pied-billed grebe",
+      "piedbilled grebe",
+      "pied-billed-grebe",
+      "pied billed grebe"
+    ]
   },
   {
     "id": 188,
@@ -35499,7 +36791,11 @@
       "mic": "Sennheiser K6 ME67 mic, Shotgun Classic-Softie Windshield",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952718/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952718/download",
+    "common_names": [
+      "pileated woodpecker",
+      "pileated-woodpecker"
+    ]
   },
   {
     "id": 189,
@@ -35618,7 +36914,11 @@
       "mic": "Sennheiser K6 ME67 mic, Shotgun Classic-Softie Windshield",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/946742/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/946742/download",
+    "common_names": [
+      "pine siskin",
+      "pine-siskin"
+    ]
   },
   {
     "id": 324,
@@ -35736,7 +37036,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/634715/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/634715/download",
+    "common_names": [
+      "pink-eared duck",
+      "pinkeared duck",
+      "pink-eared-duck",
+      "pink eared duck"
+    ]
   },
   {
     "id": 325,
@@ -35851,7 +37157,12 @@
       "mic": "",
       "smp": "32000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/923894/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/923894/download",
+    "common_names": [
+      "plains-wanderer",
+      "plainswanderer",
+      "plains wanderer"
+    ]
   },
   {
     "id": 414,
@@ -35969,7 +37280,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/914963/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/914963/download",
+    "common_names": [
+      "plumbeous redstart",
+      "plumbeous-redstart"
+    ]
   },
   {
     "id": 326,
@@ -36084,7 +37399,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/279454/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/279454/download",
+    "common_names": [
+      "princess stephanie's astrapia",
+      "princess stephanies astrapia",
+      "princess-stephanie's-astrapia"
+    ]
   },
   {
     "id": 190,
@@ -36194,7 +37514,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/572163/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/572163/download",
+    "common_names": [
+      "prothonotary warbler",
+      "prothonotary-warbler"
+    ]
   },
   {
     "id": 191,
@@ -36259,6 +37583,10 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "purple gallinule",
+      "purple-gallinule"
     ]
   },
   {
@@ -36369,7 +37697,11 @@
       "mic": "no",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/944155/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/944155/download",
+    "common_names": [
+      "purple heron",
+      "purple-heron"
+    ]
   },
   {
     "id": 192,
@@ -36488,7 +37820,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/379541/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/379541/download",
+    "common_names": [
+      "purple martin",
+      "purple-martin"
+    ]
   },
   {
     "id": 193,
@@ -36607,7 +37943,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/558663/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/558663/download",
+    "common_names": [
+      "pygmy nuthatch",
+      "pygmy-nuthatch"
+    ]
   },
   {
     "id": 327,
@@ -36722,7 +38062,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935914/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935914/download",
+    "common_names": [
+      "pūkeko",
+      "pkeko"
+    ]
   },
   {
     "id": 328,
@@ -36845,7 +38189,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:"
+    "frontend_sound_url": "https:",
+    "common_names": [
+      "rainbow lorikeet",
+      "rainbow-lorikeet"
+    ]
   },
   {
     "id": 416,
@@ -36960,7 +38308,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/860775/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/860775/download",
+    "common_names": [
+      "red avadavat",
+      "red-avadavat"
+    ]
   },
   {
     "id": 194,
@@ -37084,7 +38436,11 @@
       "mic": "Wildtronics parabola",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938944/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938944/download",
+    "common_names": [
+      "red crossbill",
+      "red-crossbill"
+    ]
   },
   {
     "id": 417,
@@ -37199,7 +38555,11 @@
       "mic": "Telinga Parabolic Microphone",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951671/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951671/download",
+    "common_names": [
+      "red junglefowl",
+      "red-junglefowl"
+    ]
   },
   {
     "id": 195,
@@ -37331,7 +38691,11 @@
       "mic": "parabola stéréo 2x primo EM272",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938009/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938009/download",
+    "common_names": [
+      "red kite",
+      "red-kite"
+    ]
   },
   {
     "id": 196,
@@ -37446,7 +38810,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/382128/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/382128/download",
+    "common_names": [
+      "red knot",
+      "red-knot"
+    ]
   },
   {
     "id": 329,
@@ -37567,7 +38935,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/941681/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/941681/download",
+    "common_names": [
+      "red wattlebird",
+      "red-wattlebird"
+    ]
   },
   {
     "id": 330,
@@ -37682,7 +39054,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/816327/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/816327/download",
+    "common_names": [
+      "red-backed fairywren",
+      "redbacked fairywren",
+      "red-backed-fairywren",
+      "red backed fairywren"
+    ]
   },
   {
     "id": 197,
@@ -37801,7 +39179,13 @@
       "mic": "",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938986/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938986/download",
+    "common_names": [
+      "red-backed shrike",
+      "redbacked shrike",
+      "red-backed-shrike",
+      "red backed shrike"
+    ]
   },
   {
     "id": 198,
@@ -37926,7 +39310,13 @@
       "mic": "Zoom H4n Pro",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/871896/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/871896/download",
+    "common_names": [
+      "red-bellied woodpecker",
+      "redbellied woodpecker",
+      "red-bellied-woodpecker",
+      "red bellied woodpecker"
+    ]
   },
   {
     "id": 199,
@@ -38049,7 +39439,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/571300/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/571300/download",
+    "common_names": [
+      "red-breasted merganser",
+      "redbreasted merganser",
+      "red-breasted-merganser",
+      "red breasted merganser"
+    ]
   },
   {
     "id": 200,
@@ -38162,7 +39558,13 @@
       "mic": "iPhone 13",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938021/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938021/download",
+    "common_names": [
+      "red-breasted nuthatch",
+      "redbreasted nuthatch",
+      "red-breasted-nuthatch",
+      "red breasted nuthatch"
+    ]
   },
   {
     "id": 331,
@@ -38281,7 +39683,13 @@
       "mic": "Telinga Pro-X",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/860040/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/860040/download",
+    "common_names": [
+      "red-capped robin",
+      "redcapped robin",
+      "red-capped-robin",
+      "red capped robin"
+    ]
   },
   {
     "id": 201,
@@ -38346,6 +39754,12 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "red-cockaded woodpecker",
+      "redcockaded woodpecker",
+      "red-cockaded-woodpecker",
+      "red cockaded woodpecker"
     ]
   },
   {
@@ -38461,7 +39875,13 @@
       "mic": "Sennheiser ME66",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/897965/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/897965/download",
+    "common_names": [
+      "red-crowned crane",
+      "redcrowned crane",
+      "red-crowned-crane",
+      "red crowned crane"
+    ]
   },
   {
     "id": 202,
@@ -38576,7 +39996,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/551392/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/551392/download",
+    "common_names": [
+      "red-eyed vireo",
+      "redeyed vireo",
+      "red-eyed-vireo",
+      "red eyed vireo"
+    ]
   },
   {
     "id": 203,
@@ -38695,7 +40121,13 @@
       "mic": "None",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/940918/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/940918/download",
+    "common_names": [
+      "red-headed woodpecker",
+      "redheaded woodpecker",
+      "red-headed-woodpecker",
+      "red headed woodpecker"
+    ]
   },
   {
     "id": 204,
@@ -38810,7 +40242,13 @@
       "mic": "Seinnheiser",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938589/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938589/download",
+    "common_names": [
+      "red-legged partridge",
+      "redlegged partridge",
+      "red-legged-partridge",
+      "red legged partridge"
+    ]
   },
   {
     "id": 332,
@@ -38929,7 +40367,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/434170/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/434170/download",
+    "common_names": [
+      "red-necked avocet",
+      "rednecked avocet",
+      "red-necked-avocet",
+      "red necked avocet"
+    ]
   },
   {
     "id": 205,
@@ -39043,7 +40487,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/557418/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/557418/download",
+    "common_names": [
+      "red-shouldered hawk",
+      "redshouldered hawk",
+      "red-shouldered-hawk",
+      "red shouldered hawk"
+    ]
   },
   {
     "id": 206,
@@ -39153,7 +40603,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/449110/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/449110/download",
+    "common_names": [
+      "red-tailed hawk",
+      "redtailed hawk",
+      "red-tailed-hawk",
+      "red tailed hawk"
+    ]
   },
   {
     "id": 419,
@@ -39268,7 +40724,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/933206/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/933206/download",
+    "common_names": [
+      "red-vented bulbul",
+      "redvented bulbul",
+      "red-vented-bulbul",
+      "red vented bulbul"
+    ]
   },
   {
     "id": 420,
@@ -39387,7 +40849,13 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951197/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951197/download",
+    "common_names": [
+      "red-wattled lapwing",
+      "redwattled lapwing",
+      "red-wattled-lapwing",
+      "red wattled lapwing"
+    ]
   },
   {
     "id": 207,
@@ -39509,7 +40977,13 @@
       "mic": "EM272 parabolic",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/908400/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/908400/download",
+    "common_names": [
+      "red-winged blackbird",
+      "redwinged blackbird",
+      "red-winged-blackbird",
+      "red winged blackbird"
+    ]
   },
   {
     "id": 333,
@@ -39637,7 +41111,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/839516/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/839516/download",
+    "common_names": [
+      "red-winged parrot",
+      "redwinged parrot",
+      "red-winged-parrot",
+      "red winged parrot"
+    ]
   },
   {
     "id": 334,
@@ -39756,7 +41236,11 @@
       "mic": "DPA 4060 x 2",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/755944/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/755944/download",
+    "common_names": [
+      "regent bowerbird",
+      "regent-bowerbird"
+    ]
   },
   {
     "id": 421,
@@ -39881,7 +41365,11 @@
       "mic": "",
       "smp": "16000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/915711/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/915711/download",
+    "common_names": [
+      "rhinoceros auklet",
+      "rhinoceros-auklet"
+    ]
   },
   {
     "id": 208,
@@ -39996,7 +41484,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/543313/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/543313/download",
+    "common_names": [
+      "ring-billed gull",
+      "ringbilled gull",
+      "ring-billed-gull",
+      "ring billed gull"
+    ]
   },
   {
     "id": 422,
@@ -40113,7 +41607,11 @@
       "mic": "",
       "smp": "16000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/550328/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/550328/download",
+    "common_names": [
+      "rock pigeon",
+      "rock-pigeon"
+    ]
   },
   {
     "id": 423,
@@ -40223,7 +41721,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/949723/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/949723/download",
+    "common_names": [
+      "rook"
+    ]
   },
   {
     "id": 209,
@@ -40349,7 +41850,13 @@
       "mic": "EM272 parabolic",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/914375/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/914375/download",
+    "common_names": [
+      "rose-breasted grosbeak",
+      "rosebreasted grosbeak",
+      "rose-breasted-grosbeak",
+      "rose breasted grosbeak"
+    ]
   },
   {
     "id": 424,
@@ -40459,7 +41966,13 @@
       "mic": "interne ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952804/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952804/download",
+    "common_names": [
+      "rose-ringed parakeet",
+      "roseringed parakeet",
+      "rose-ringed-parakeet",
+      "rose ringed parakeet"
+    ]
   },
   {
     "id": 210,
@@ -40574,7 +42087,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/418905/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/418905/download",
+    "common_names": [
+      "roseate spoonbill",
+      "roseate-spoonbill"
+    ]
   },
   {
     "id": 425,
@@ -40693,7 +42210,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/920038/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/920038/download",
+    "common_names": [
+      "rosy starling",
+      "rosy-starling"
+    ]
   },
   {
     "id": 335,
@@ -40813,7 +42334,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/707576/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/707576/download",
+    "common_names": [
+      "royal spoonbill",
+      "royal-spoonbill"
+    ]
   },
   {
     "id": 211,
@@ -40878,7 +42403,13 @@
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-31474"
       }
     ],
-    "additionalrulings": []
+    "additionalrulings": [],
+    "common_names": [
+      "ruby-crowned kinglet",
+      "rubycrowned kinglet",
+      "ruby-crowned-kinglet",
+      "ruby crowned kinglet"
+    ]
   },
   {
     "id": 212,
@@ -40997,7 +42528,13 @@
       "mic": "wildtronics mono amplified",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/758917/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/758917/download",
+    "common_names": [
+      "ruby-throated hummingbird",
+      "rubythroated hummingbird",
+      "ruby-throated-hummingbird",
+      "ruby throated hummingbird"
+    ]
   },
   {
     "id": 213,
@@ -41120,7 +42657,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/215359/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/215359/download",
+    "common_names": [
+      "ruddy duck",
+      "ruddy-duck"
+    ]
   },
   {
     "id": 426,
@@ -41235,7 +42776,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950869/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950869/download",
+    "common_names": [
+      "ruddy shelduck",
+      "ruddy-shelduck"
+    ]
   },
   {
     "id": 214,
@@ -41359,7 +42904,10 @@
       "mic": "Tascam. ",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/821426/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/821426/download",
+    "common_names": [
+      "ruff"
+    ]
   },
   {
     "id": 336,
@@ -41469,7 +43017,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/439604/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/439604/download",
+    "common_names": [
+      "rufous night-heron",
+      "rufous nightheron",
+      "rufous-night-heron",
+      "rufous night heron"
+    ]
   },
   {
     "id": 337,
@@ -41584,7 +43138,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/777823/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/777823/download",
+    "common_names": [
+      "rufous owl",
+      "rufous-owl"
+    ]
   },
   {
     "id": 338,
@@ -41712,7 +43270,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/761145/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/761145/download",
+    "common_names": [
+      "rufous-banded honeyeater",
+      "rufousbanded honeyeater",
+      "rufous-banded-honeyeater",
+      "rufous banded honeyeater"
+    ]
   },
   {
     "id": 339,
@@ -41847,7 +43411,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935791/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935791/download",
+    "common_names": [
+      "sacred kingfisher",
+      "sacred-kingfisher"
+    ]
   },
   {
     "id": 215,
@@ -41962,7 +43530,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/558999/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/558999/download",
+    "common_names": [
+      "sandhill crane",
+      "sandhill-crane"
+    ]
   },
   {
     "id": 427,
@@ -42084,7 +43656,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/777647/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/777647/download",
+    "common_names": [
+      "sarus crane",
+      "sarus-crane"
+    ]
   },
   {
     "id": 428,
@@ -42199,7 +43775,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/946470/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/946470/download",
+    "common_names": [
+      "satyr tragopan",
+      "satyr-tragopan"
+    ]
   },
   {
     "id": 216,
@@ -42314,7 +43894,11 @@
       "mic": "built-in",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935283/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935283/download",
+    "common_names": [
+      "savannah sparrow",
+      "savannah-sparrow"
+    ]
   },
   {
     "id": 217,
@@ -42432,7 +44016,12 @@
       "mic": "Telinga-PRO Dish with MK3 stereo microphone.",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/913784/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/913784/download",
+    "common_names": [
+      "savi's warbler",
+      "savis warbler",
+      "savi's-warbler"
+    ]
   },
   {
     "id": 218,
@@ -42549,7 +44138,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/562439/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/562439/download",
+    "common_names": [
+      "say's phoebe",
+      "says phoebe",
+      "say's-phoebe"
+    ]
   },
   {
     "id": 219,
@@ -42668,7 +44262,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/610559/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/610559/download",
+    "common_names": [
+      "scaled quail",
+      "scaled-quail"
+    ]
   },
   {
     "id": 429,
@@ -42787,7 +44385,13 @@
       "mic": "Dodotronics Hi-Sound DR",
       "smp": "96000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950968/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950968/download",
+    "common_names": [
+      "scaly-breasted munia",
+      "scalybreasted munia",
+      "scaly-breasted-munia",
+      "scaly breasted munia"
+    ]
   },
   {
     "id": 220,
@@ -42906,7 +44510,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/538195/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/538195/download",
+    "common_names": [
+      "scissor-tailed flycatcher",
+      "scissortailed flycatcher",
+      "scissor-tailed-flycatcher",
+      "scissor tailed flycatcher"
+    ]
   },
   {
     "id": 221,
@@ -43030,7 +44640,13 @@
       "mic": "Tascam DR 05X",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950696/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950696/download",
+    "common_names": [
+      "short-toed treecreeper",
+      "shorttoed treecreeper",
+      "short-toed-treecreeper",
+      "short toed treecreeper"
+    ]
   },
   {
     "id": 340,
@@ -43149,7 +44765,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938198/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938198/download",
+    "common_names": [
+      "silvereye"
+    ]
   },
   {
     "id": 430,
@@ -43259,7 +44878,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/904263/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/904263/download",
+    "common_names": [
+      "small minivet",
+      "small-minivet"
+    ]
   },
   {
     "id": 431,
@@ -43376,7 +44999,10 @@
       "mic": "",
       "smp": "32000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/618773/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/618773/download",
+    "common_names": [
+      "smew"
+    ]
   },
   {
     "id": 222,
@@ -43520,7 +45146,11 @@
       "mic": "Sennheiser K6 ME67 mic, Shotgun Classic-Softie Windshield",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950333/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950333/download",
+    "common_names": [
+      "snow bunting",
+      "snow-bunting"
+    ]
   },
   {
     "id": 223,
@@ -43630,7 +45260,11 @@
       "mic": "",
       "smp": "16000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/559898/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/559898/download",
+    "common_names": [
+      "snowy egret",
+      "snowy-egret"
+    ]
   },
   {
     "id": 224,
@@ -43747,7 +45381,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/679718/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/679718/download",
+    "common_names": [
+      "snowy owl",
+      "snowy-owl"
+    ]
   },
   {
     "id": 225,
@@ -43862,7 +45500,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/550704/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/550704/download",
+    "common_names": [
+      "song sparrow",
+      "song-sparrow"
+    ]
   },
   {
     "id": 341,
@@ -43972,7 +45614,11 @@
       "mic": "inbuilt",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/842721/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/842721/download",
+    "common_names": [
+      "south island robin",
+      "south-island-robin"
+    ]
   },
   {
     "id": 342,
@@ -44100,7 +45746,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/126083/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/126083/download",
+    "common_names": [
+      "southern cassowary",
+      "southern-cassowary"
+    ]
   },
   {
     "id": 343,
@@ -44235,7 +45885,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/816377/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/816377/download",
+    "common_names": [
+      "spangled drongo",
+      "spangled-drongo"
+    ]
   },
   {
     "id": 344,
@@ -44350,7 +46004,11 @@
       "mic": "Telinga Pro-X",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/859937/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/859937/download",
+    "common_names": [
+      "splendid fairywren",
+      "splendid-fairywren"
+    ]
   },
   {
     "id": 432,
@@ -44474,7 +46132,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/486596/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/486596/download",
+    "common_names": [
+      "spoon-billed sandpiper",
+      "spoonbilled sandpiper",
+      "spoon-billed-sandpiper",
+      "spoon billed sandpiper"
+    ]
   },
   {
     "id": 345,
@@ -44589,7 +46253,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/835286/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/835286/download",
+    "common_names": [
+      "spotless crake",
+      "spotless-crake"
+    ]
   },
   {
     "id": 433,
@@ -44654,6 +46322,10 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "spotted dove",
+      "spotted-dove"
     ]
   },
   {
@@ -44771,7 +46443,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:"
+    "frontend_sound_url": "https:",
+    "common_names": [
+      "spotted owl",
+      "spotted-owl"
+    ]
   },
   {
     "id": 227,
@@ -44891,7 +46567,11 @@
       "mic": "Dodotronic Hi Sounds Compact",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/928730/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/928730/download",
+    "common_names": [
+      "spotted sandpiper",
+      "spotted-sandpiper"
+    ]
   },
   {
     "id": 228,
@@ -45010,7 +46690,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/559006/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/559006/download",
+    "common_names": [
+      "spotted towhee",
+      "spotted-towhee"
+    ]
   },
   {
     "id": 229,
@@ -45129,7 +46813,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/574659/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/574659/download",
+    "common_names": [
+      "sprague's pipit",
+      "spragues pipit",
+      "sprague's-pipit"
+    ]
   },
   {
     "id": 230,
@@ -45247,7 +46936,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/839419/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/839419/download",
+    "common_names": [
+      "squacco heron",
+      "squacco-heron"
+    ]
   },
   {
     "id": 434,
@@ -45357,7 +47050,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/840505/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/840505/download",
+    "common_names": [
+      "sri lanka blue-magpie",
+      "sri lanka bluemagpie",
+      "sri-lanka-blue-magpie",
+      "sri lanka blue magpie"
+    ]
   },
   {
     "id": 435,
@@ -45480,7 +47179,11 @@
       "mic": "Telinga Pro",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/786593/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/786593/download",
+    "common_names": [
+      "sri lanka frogmouth",
+      "sri-lanka-frogmouth"
+    ]
   },
   {
     "id": 231,
@@ -45599,7 +47302,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/545913/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/545913/download",
+    "common_names": [
+      "steller's jay",
+      "stellers jay",
+      "steller's-jay"
+    ]
   },
   {
     "id": 436,
@@ -45718,7 +47426,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/930508/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/930508/download",
+    "common_names": [
+      "stork-billed kingfisher",
+      "storkbilled kingfisher",
+      "stork-billed-kingfisher",
+      "stork billed kingfisher"
+    ]
   },
   {
     "id": 346,
@@ -45837,7 +47551,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/688920/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/688920/download",
+    "common_names": [
+      "stubble quail",
+      "stubble-quail"
+    ]
   },
   {
     "id": 347,
@@ -45958,7 +47676,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/939402/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/939402/download",
+    "common_names": [
+      "sulphur-crested cockatoo",
+      "sulphurcrested cockatoo",
+      "sulphur-crested-cockatoo",
+      "sulphur crested cockatoo"
+    ]
   },
   {
     "id": 348,
@@ -46085,7 +47809,11 @@
       "mic": "inbuilt",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/842470/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/842470/download",
+    "common_names": [
+      "superb lyrebird",
+      "superb-lyrebird"
+    ]
   },
   {
     "id": 232,
@@ -46195,7 +47923,12 @@
       "mic": "",
       "smp": "32000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/529031/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/529031/download",
+    "common_names": [
+      "swainson's hawk",
+      "swainsons hawk",
+      "swainson's-hawk"
+    ]
   },
   {
     "id": 349,
@@ -46305,7 +48038,11 @@
       "mic": "Telinga Pro-X",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/860095/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/860095/download",
+    "common_names": [
+      "tawny frogmouth",
+      "tawny-frogmouth"
+    ]
   },
   {
     "id": 233,
@@ -46429,7 +48166,12 @@
       "mic": "Dodotronic Hi-Sounds Stereo",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/936547/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/936547/download",
+    "common_names": [
+      "thekla's lark",
+      "theklas lark",
+      "thekla's-lark"
+    ]
   },
   {
     "id": 234,
@@ -46547,7 +48289,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/540310/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/540310/download",
+    "common_names": [
+      "tree swallow",
+      "tree-swallow"
+    ]
   },
   {
     "id": 437,
@@ -46659,7 +48405,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/890131/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/890131/download",
+    "common_names": [
+      "trumpeter finch",
+      "trumpeter-finch"
+    ]
   },
   {
     "id": 235,
@@ -46769,7 +48519,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/554035/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/554035/download",
+    "common_names": [
+      "trumpeter swan",
+      "trumpeter-swan"
+    ]
   },
   {
     "id": 236,
@@ -46884,7 +48638,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/542141/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/542141/download",
+    "common_names": [
+      "tufted titmouse",
+      "tufted-titmouse"
+    ]
   },
   {
     "id": 237,
@@ -47019,7 +48777,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/520288/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/520288/download",
+    "common_names": [
+      "turkey vulture",
+      "turkey-vulture"
+    ]
   },
   {
     "id": 438,
@@ -47136,7 +48898,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/947303/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/947303/download",
+    "common_names": [
+      "twite"
+    ]
   },
   {
     "id": 350,
@@ -47263,7 +49028,11 @@
       "mic": "Clippy XLR EM272Z1 Matched Stereo Pair",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/927463/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/927463/download",
+    "common_names": [
+      "tūī",
+      "t"
+    ]
   },
   {
     "id": 238,
@@ -47384,7 +49153,12 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/546068/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/546068/download",
+    "common_names": [
+      "vaux's swift",
+      "vauxs swift",
+      "vaux's-swift"
+    ]
   },
   {
     "id": 439,
@@ -47507,7 +49281,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/823076/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/823076/download",
+    "common_names": [
+      "verditer flycatcher",
+      "verditer-flycatcher"
+    ]
   },
   {
     "id": 440,
@@ -47638,7 +49416,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/930862/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/930862/download",
+    "common_names": [
+      "violet cuckoo",
+      "violet-cuckoo"
+    ]
   },
   {
     "id": 239,
@@ -47755,7 +49537,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/488681/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/488681/download",
+    "common_names": [
+      "violet-green swallow",
+      "violetgreen swallow",
+      "violet-green-swallow",
+      "violet green swallow"
+    ]
   },
   {
     "id": 351,
@@ -47867,7 +49655,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/184703/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/184703/download",
+    "common_names": [
+      "wedge-tailed eagle",
+      "wedgetailed eagle",
+      "wedge-tailed-eagle",
+      "wedge tailed eagle"
+    ]
   },
   {
     "id": 352,
@@ -47977,7 +49771,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/526611/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/526611/download",
+    "common_names": [
+      "welcome swallow",
+      "welcome-swallow"
+    ]
   },
   {
     "id": 240,
@@ -48097,7 +49895,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/559010/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/559010/download",
+    "common_names": [
+      "western meadowlark",
+      "western-meadowlark"
+    ]
   },
   {
     "id": 241,
@@ -48223,7 +50025,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/441367/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/441367/download",
+    "common_names": [
+      "western tanager",
+      "western-tanager"
+    ]
   },
   {
     "id": 242,
@@ -48338,7 +50144,11 @@
       "mic": "Telinga parabolic mic",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/943779/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/943779/download",
+    "common_names": [
+      "white stork",
+      "white-stork"
+    ]
   },
   {
     "id": 243,
@@ -48458,7 +50268,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/946837/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/946837/download",
+    "common_names": [
+      "white wagtail",
+      "white-wagtail"
+    ]
   },
   {
     "id": 244,
@@ -48577,7 +50391,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/943940/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/943940/download",
+    "common_names": [
+      "white-backed woodpecker",
+      "whitebacked woodpecker",
+      "white-backed-woodpecker",
+      "white backed woodpecker"
+    ]
   },
   {
     "id": 353,
@@ -48696,7 +50516,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/951987/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/951987/download",
+    "common_names": [
+      "white-bellied sea-eagle",
+      "whitebellied seaeagle",
+      "white-bellied-sea-eagle",
+      "white bellied sea eagle"
+    ]
   },
   {
     "id": 245,
@@ -48809,7 +50635,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/560237/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/560237/download",
+    "common_names": [
+      "white-breasted nuthatch",
+      "whitebreasted nuthatch",
+      "white-breasted-nuthatch",
+      "white breasted nuthatch"
+    ]
   },
   {
     "id": 354,
@@ -48874,6 +50706,12 @@
         "text": "Whenever you are entitled to gain resources, you may choose to take some but not all of the quantity specified.",
         "source": "https://www.stonemaiergames.com/games/wingspan/rules/#comment-37710"
       }
+    ],
+    "common_names": [
+      "white-breasted woodswallow",
+      "whitebreasted woodswallow",
+      "white-breasted-woodswallow",
+      "white breasted woodswallow"
     ]
   },
   {
@@ -48993,7 +50831,13 @@
       "mic": "Telinga Pro-X",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/916283/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/916283/download",
+    "common_names": [
+      "white-browed tit-warbler",
+      "whitebrowed titwarbler",
+      "white-browed-tit-warbler",
+      "white browed tit warbler"
+    ]
   },
   {
     "id": 442,
@@ -49112,7 +50956,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/940240/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/940240/download",
+    "common_names": [
+      "white-crested laughingthrush",
+      "whitecrested laughingthrush",
+      "white-crested-laughingthrush",
+      "white crested laughingthrush"
+    ]
   },
   {
     "id": 246,
@@ -49227,7 +51077,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/553412/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/553412/download",
+    "common_names": [
+      "white-crowned sparrow",
+      "whitecrowned sparrow",
+      "white-crowned-sparrow",
+      "white crowned sparrow"
+    ]
   },
   {
     "id": 355,
@@ -49342,7 +51198,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935861/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935861/download",
+    "common_names": [
+      "white-faced heron",
+      "whitefaced heron",
+      "white-faced-heron",
+      "white faced heron"
+    ]
   },
   {
     "id": 247,
@@ -49452,7 +51314,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/572903/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/572903/download",
+    "common_names": [
+      "white-faced ibis",
+      "whitefaced ibis",
+      "white-faced-ibis",
+      "white faced ibis"
+    ]
   },
   {
     "id": 443,
@@ -49571,7 +51439,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/462959/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/462959/download",
+    "common_names": [
+      "white-headed duck",
+      "whiteheaded duck",
+      "white-headed-duck",
+      "white headed duck"
+    ]
   },
   {
     "id": 248,
@@ -49686,7 +51560,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/944124/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/944124/download",
+    "common_names": [
+      "white-throated dipper",
+      "whitethroated dipper",
+      "white-throated-dipper",
+      "white throated dipper"
+    ]
   },
   {
     "id": 444,
@@ -49798,7 +51678,13 @@
       "mic": "telinga pro 9 mkII",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/949671/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/949671/download",
+    "common_names": [
+      "white-throated kingfisher",
+      "whitethroated kingfisher",
+      "white-throated-kingfisher",
+      "white throated kingfisher"
+    ]
   },
   {
     "id": 249,
@@ -49913,7 +51799,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/541376/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/541376/download",
+    "common_names": [
+      "white-throated swift",
+      "whitethroated swift",
+      "white-throated-swift",
+      "white throated swift"
+    ]
   },
   {
     "id": 250,
@@ -50031,7 +51923,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/533637/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/533637/download",
+    "common_names": [
+      "whooping crane",
+      "whooping-crane"
+    ]
   },
   {
     "id": 251,
@@ -50141,7 +52037,11 @@
       "mic": "",
       "smp": "32000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/520057/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/520057/download",
+    "common_names": [
+      "wild turkey",
+      "wild-turkey"
+    ]
   },
   {
     "id": 252,
@@ -50253,7 +52153,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/474504/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/474504/download",
+    "common_names": [
+      "willet"
+    ]
   },
   {
     "id": 356,
@@ -50368,7 +52271,12 @@
       "mic": "Sennheiser ME 66",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/945812/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/945812/download",
+    "common_names": [
+      "willie-wagtail",
+      "williewagtail",
+      "willie wagtail"
+    ]
   },
   {
     "id": 445,
@@ -50478,7 +52386,11 @@
       "mic": "Omnimic in parabola ",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/949799/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/949799/download",
+    "common_names": [
+      "willow tit",
+      "willow-tit"
+    ]
   },
   {
     "id": 253,
@@ -50596,7 +52508,12 @@
       "mic": "Røde NTG5",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/837812/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/837812/download",
+    "common_names": [
+      "wilson's snipe",
+      "wilsons snipe",
+      "wilson's-snipe"
+    ]
   },
   {
     "id": 254,
@@ -50719,7 +52636,12 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/882200/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/882200/download",
+    "common_names": [
+      "wilson's storm petrel",
+      "wilsons storm petrel",
+      "wilson's-storm-petrel"
+    ]
   },
   {
     "id": 255,
@@ -50846,7 +52768,11 @@
       "mic": "Sennheiser K6 ME67 mic, Shotgun Classic-Softie Windshield",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/935141/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/935141/download",
+    "common_names": [
+      "wood duck",
+      "wood-duck"
+    ]
   },
   {
     "id": 256,
@@ -50965,7 +52891,11 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/196308/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/196308/download",
+    "common_names": [
+      "wood stork",
+      "wood-stork"
+    ]
   },
   {
     "id": 357,
@@ -51075,7 +53005,10 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/396170/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/396170/download",
+    "common_names": [
+      "wrybill"
+    ]
   },
   {
     "id": 446,
@@ -51190,7 +53123,11 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/918930/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/918930/download",
+    "common_names": [
+      "yellow bittern",
+      "yellow-bittern"
+    ]
   },
   {
     "id": 257,
@@ -51313,7 +53250,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/562030/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/562030/download",
+    "common_names": [
+      "yellow-bellied sapsucker",
+      "yellowbellied sapsucker",
+      "yellow-bellied-sapsucker",
+      "yellow bellied sapsucker"
+    ]
   },
   {
     "id": 258,
@@ -51449,7 +53392,13 @@
       "mic": "",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/901133/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/901133/download",
+    "common_names": [
+      "yellow-billed cuckoo",
+      "yellowbilled cuckoo",
+      "yellow-billed-cuckoo",
+      "yellow billed cuckoo"
+    ]
   },
   {
     "id": 259,
@@ -51566,7 +53515,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/184929/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/184929/download",
+    "common_names": [
+      "yellow-breasted chat",
+      "yellowbreasted chat",
+      "yellow-breasted-chat",
+      "yellow breasted chat"
+    ]
   },
   {
     "id": 260,
@@ -51686,7 +53641,13 @@
       "mic": "",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/411393/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/411393/download",
+    "common_names": [
+      "yellow-headed blackbird",
+      "yellowheaded blackbird",
+      "yellow-headed-blackbird",
+      "yellow headed blackbird"
+    ]
   },
   {
     "id": 261,
@@ -51803,7 +53764,13 @@
       "mic": "Sennheiser ME66",
       "smp": "44100"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/938989/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/938989/download",
+    "common_names": [
+      "yellow-rumped warbler",
+      "yellowrumped warbler",
+      "yellow-rumped-warbler",
+      "yellow rumped warbler"
+    ]
   },
   {
     "id": 262,
@@ -51923,7 +53890,10 @@
       "mic": "Stereo EM272 capsules",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/952417/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/952417/download",
+    "common_names": [
+      "yellowhammer"
+    ]
   },
   {
     "id": 447,
@@ -52042,6 +54012,10 @@
       "mic": "telinga pro 9 mkII",
       "smp": "48000"
     },
-    "frontend_sound_url": "https:https://xeno-canto.org/950422/download"
+    "frontend_sound_url": "https:https://xeno-canto.org/950422/download",
+    "common_names": [
+      "zebra dove",
+      "zebra-dove"
+    ]
   }
 ]

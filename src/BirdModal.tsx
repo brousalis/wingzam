@@ -93,11 +93,11 @@ const BirdModal: React.FC<{
               </div>
 
               <div className='p-4'>
-                <img
+                {/* <img
                   src={`https:${bird.recording.sono.med}`}
                   alt={`${bird.common_name} sonogram`}
                   className='w-full h-40 object-cover rounded-md mb-4'
-                />
+                /> */}
                 <div className='space-y-2 max-h-40 overflow-y-auto'>
                   <p>
                     <strong>Scientific Name:</strong> {bird.scientific_name}
