@@ -14,11 +14,18 @@ body {
   padding: 0;
 }
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
 .app-container {
-  @apply flex flex-col items-center justify-between min-h-screen;
-  font-family: 'Open Sans', sans-serif;
-  position: relative;
-  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
 }
 
 .app-header {
@@ -36,7 +43,13 @@ body {
   @apply flex flex-col items-center text-center text-white px-4;
   position: relative;
 }
-
+.content-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 .listen-container {
   position: relative;
 }
