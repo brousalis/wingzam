@@ -12,20 +12,35 @@ body {
   margin: 0;
   padding: 0;
 }
-
 html,
 body {
   margin: 0;
   padding: 0;
   height: 100%;
-  overflow: hidden;
 }
 
 .app-container {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 100vh;
+  height: var(--vh, 100vh);
+  /* Use custom --vh variable */
+  overflow: hidden;
+  /* Prevent scrollbars */
+}
+
+.content-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f8f8f8;
 }
 
 .app-header {
@@ -37,16 +52,6 @@ body {
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   letter-spacing: 1px;
   color: #0ab;
-}
-
-.content-wrapper {
-  @apply flex flex-col items-center text-center text-white px-4;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
 }
 
 .listen-container {
@@ -99,14 +104,6 @@ body {
 
 .bird-info img {
   @apply mt-4 mx-auto rounded-lg shadow-lg;
-}
-
-.app-footer {
-  @apply w-full text-center py-4 text-gray-600;
-  text-shadow: 1px 1px rgba(0, 0, 0, 0.05);
-  .name {
-    color: #0ab;
-  }
 }
 
 .live-caption {
