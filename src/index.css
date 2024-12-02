@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .app-container {
-  @apply flex flex-col items-center justify-between min-h-screen bg-gradient-to-b from-blue-900 to-blue-600;
+  @apply flex flex-col items-center justify-between min-h-screen bg-gradient-to-b from-purple-800 to-purple-900;
   position: relative;
   overflow: hidden;
 }
@@ -13,22 +13,40 @@
 }
 
 .app-title {
-  @apply text-4xl font-bold text-white;
+  @apply text-4xl text-white;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .content-wrapper {
   @apply flex flex-col items-center text-center text-white px-4;
+  position: relative;
+}
+
+.listen-container {
+  position: relative;
+}
+
+.listening-text {
+  @apply text-xl;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 100vw;
+  top: -65px;
 }
 
 .listen-button {
-  @apply bg-gradient-to-r from-indigo-500 to-purple-500 text-white font-bold p-8 rounded-full shadow-lg z-10;
-  width: 180px;
-  height: 180px;
+  @apply bg-gradient-to-r from-purple-500 to-purple-500 text-white font-bold p-8 rounded-full z-10;
+  width: 150px;
+  height: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   z-index: 1000;
+  border: 1px solid white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5), 0 1px 2px rgba(0, 0, 0, 0.2);
 }
 
 .listen-button:disabled {
@@ -36,13 +54,14 @@
 }
 
 .ripple {
-  @apply absolute rounded-full bg-gradient-to-r from-indigo-500 to-purple-500 opacity-50;
+  @apply absolute rounded-full bg-gradient-to-r from-purple-500 to-purple-500 opacity-50;
   width: 180px;
   height: 180px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   transform-origin: center;
+  translate: -50% -50%;
   z-index: 0;
 }
 
@@ -60,4 +79,95 @@
 
 .app-footer {
   @apply w-full text-center py-4 text-white;
+  p {
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.05);
+  }
+}
+
+.live-caption {
+  @apply bg-white text-black p-2 rounded-lg shadow-lg;
+  position: absolute;
+  min-width: 200px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000;
+}
+
+.error-message {
+  @apply bg-red-500 text-white p-3 rounded-lg shadow-lg;
+  position: absolute;
+  z-index: 1000;
+  min-width: 200px;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 16px;
+}
+
+.bird-card {
+  background: #fff;
+  border: 2px solid #e0e0e0;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
+  width: 300px;
+  margin: 0 auto;
+  padding: 16px;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  position: relative;
+  transform-origin: center;
+}
+
+.card-header {
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.card-subtitle {
+  font-size: 1rem;
+  color: #777;
+}
+
+.card-body {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.card-body p {
+  margin: 4px 0;
+}
+
+.ripple {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid rgba(91, 193, 255, 0.4);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.ripple-1 {
+  width: 200px;
+  height: 200px;
+}
+
+.ripple-2 {
+  width: 240px;
+  height: 240px;
+  border: 2px solid rgba(91, 193, 255, 0.3);
+}
+
+.ripple-3 {
+  width: 280px;
+  height: 280px;
+  border: 2px solid rgba(91, 193, 255, 0.2);
 }

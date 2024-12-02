@@ -2,6 +2,7 @@ import { SpeechClient, protos } from '@google-cloud/speech';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import fs from 'fs';
 
+// NOTE: NOT IN USE
 const decodedCredentials = Buffer.from(
   process.env.GOOGLE_APPLICATION_CREDENTIALS_BASE64 || '',
   'base64'

@@ -10,11 +10,14 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   }
 
   try {
-    const response = await axios.get(
-      `https://xeno-canto.org/api/2/recordings?query=${encodeURIComponent(
-        query
-      )}`
-    );
+    const lowerCaseQuery = query.toLowerCase();
+
+    // Replace spaces with '+' to match xeno-canto API expectations
+    const formattedQuery = lowerCaseQuery.trim().replace(/\s+/g, '+');
+
+    const apiUrl = `https://xeno-canto.org/api/2/recordings?query=${formattedQuery}`;
+
+    const response = await axios.get(apiUrl);
 
     res.status(200).json(response.data);
   } catch (error) {

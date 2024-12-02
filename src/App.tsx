@@ -1,238 +1,270 @@
-import axios from 'axios';
 import { AnimatePresence, motion } from 'framer-motion';
-import React, { useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { FaFeather } from 'react-icons/fa';
 import './index.css';
 
-interface BirdInfo {
-  name: string;
-  description: string;
-  image: string | null;
+interface Bird {
+  id: number | null;
+  'Common name': string | null;
+  'Scientific name': string | null;
+  Expansion: string | null;
+  Color: string | null;
+  'Power text': string | null;
+  Wingspan: number;
+  Note?: string | null;
+}
+
+declare global {
+  interface Window {
+    webkitSpeechRecognition: typeof SpeechRecognition;
+  }
 }
 
 const App: React.FC = () => {
-  const [listening, setListening] = useState<boolean>(false);
-  const [birdName, setBirdName] = useState<string>('');
-  const [audioSrc, setAudioSrc] = useState<string | null>(null);
-  const [birdInfo, setBirdInfo] = useState<BirdInfo | null>(null);
+  const [bird, setBird] = useState<Bird | null>(null);
   const [error, setError] = useState<string>('');
   const [loading, setLoading] = useState<boolean>(false);
-  const [buttonMoved, setButtonMoved] = useState<boolean>(false);
+  const [interimTranscript, setInterimTranscript] = useState<string>('');
+  const [listening, setListening] = useState<boolean>(false);
+  const [listeningText, setListeningText] = useState<string>(
+    'listening for bird names'
+  );
 
-  const mediaRecorderRef = useRef<MediaRecorder | null>(null);
-  const audioChunksRef = useRef<Blob[]>([]);
+  const recognitionRef = useRef<SpeechRecognition | null>(null);
 
-  const handleListen = async () => {
-    setError('');
-    if (!navigator.mediaDevices.getUserMedia) {
-      setError('Your browser does not support audio recording.');
+  useEffect(() => {
+    let timeout: NodeJS.Timeout;
+    if (listening) {
+      timeout = setTimeout(() => {
+        setListeningText('still listening for bird names');
+      }, 5000);
+    }
+    return () => clearTimeout(timeout);
+  }, [listening]);
+
+  useEffect(() => {
+    if (!listening && interimTranscript) {
+      const timeout = setTimeout(() => setInterimTranscript(''), 5000);
+      return () => clearTimeout(timeout);
+    }
+  }, [listening, interimTranscript]);
+
+  const handleListen = () => {
+    if (bird) {
+      setBird(null);
+      setError('');
+      setInterimTranscript('');
+      setListening(true);
+      setListeningText('listening for bird names');
       return;
     }
 
-    try {
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-      let mimeType = '';
+    setError('');
+    setInterimTranscript('');
+    setListening(true);
+    setListeningText('listening for bird names');
 
-      if (MediaRecorder.isTypeSupported('audio/webm; codecs=opus')) {
-        mimeType = 'audio/webm; codecs=opus';
-      } else if (MediaRecorder.isTypeSupported('audio/ogg; codecs=opus')) {
-        mimeType = 'audio/ogg; codecs=opus';
-      } else {
-        setError('No supported audio format found.');
-        return;
-      }
+    const SpeechRecognition =
+      window.SpeechRecognition || window.webkitSpeechRecognition;
 
-      mediaRecorderRef.current = new MediaRecorder(stream, { mimeType });
-
-      mediaRecorderRef.current.onstart = () => {
-        setListening(true);
-        audioChunksRef.current = [];
-      };
-
-      mediaRecorderRef.current.ondataavailable = (event: BlobEvent) => {
-        audioChunksRef.current.push(event.data);
-      };
-
-      mediaRecorderRef.current.onstop = async () => {
-        setListening(false);
-        setLoading(true);
-        const audioBlob = new Blob(audioChunksRef.current, { type: mimeType });
-        await sendAudioToServer(audioBlob, mimeType);
-        setLoading(false);
-      };
-
-      mediaRecorderRef.current.start();
-      setTimeout(() => {
-        mediaRecorderRef.current?.stop();
-      }, 5000);
-    } catch (err) {
-      console.error('Recording error:', err);
-      setError('Could not start audio recording.');
+    if (!SpeechRecognition) {
+      setError('sorry speech recognition broken');
+      setListening(false);
+      return;
     }
-  };
 
-  const sendAudioToServer = async (audioBlob: Blob, mimeType: string) => {
-    try {
-      const arrayBuffer = await audioBlob.arrayBuffer();
-      const uint8Array = new Uint8Array(arrayBuffer);
-      const binaryString = String.fromCharCode(...uint8Array);
-      const base64Audio = btoa(binaryString);
+    recognitionRef.current = new SpeechRecognition();
+    recognitionRef.current.continuous = false;
+    recognitionRef.current.interimResults = true;
+    recognitionRef.current.lang = 'en-US';
 
-      const response = await axios.post(
-        '/api/transcribe',
-        { audioData: base64Audio, mimeType },
-        {
-          headers: {
-            'Content-Type': 'application/json',
-          },
+    recognitionRef.current.onresult = (event: SpeechRecognitionEvent) => {
+      let interim = '';
+      for (let i = event.resultIndex; i < event.results.length; ++i) {
+        const result = event.results[i];
+        if (result.isFinal) {
+          const transcript = result[0].transcript.trim();
+          setInterimTranscript('');
+          findBird(transcript);
+        } else {
+          interim += result[0].transcript;
+          setInterimTranscript(interim);
         }
-      );
-
-      const name = response.data.transcript;
-      if (name) {
-        setBirdName(name);
-        fetchAudio(name);
-      } else {
-        setError('No transcription available.');
       }
-    } catch (err) {
-      console.error('Transcription error:', err);
-      setError('Failed to transcribe audio.');
-    }
+    };
+
+    recognitionRef.current.onerror = (event: SpeechRecognitionErrorEvent) => {
+      console.error('speech recognition error:', event.error);
+      setError('please try again');
+      setListening(false);
+    };
+
+    recognitionRef.current.onend = () => {
+      setListening(false);
+    };
+
+    recognitionRef.current.start();
   };
 
-  const fetchAudio = async (name: string) => {
-    try {
-      const response = await axios.get('/api/getRecording', {
-        params: { query: name },
-      });
-
-      const data = response.data;
-
-      if (data.numSpecies !== '1') {
-        setError('Could not uniquely identify the bird.');
-        setAudioSrc(null);
-        setBirdInfo(null);
-        return;
-      }
-
-      if (data.recordings && data.recordings.length > 0) {
-        const recording = data.recordings[0];
-        const audioUrl = recording.file.startsWith('http')
-          ? recording.file
-          : `https:${recording.file}`;
-        setAudioSrc(audioUrl);
-        setError('');
-        fetchBirdInfo(recording.en);
-        setButtonMoved(true);
-      } else {
-        setError('No recordings found for this bird.');
-        setAudioSrc(null);
-      }
-    } catch (err) {
-      console.error('Fetch audio error:', err);
-      setError('Failed to fetch audio.');
+  const findBird = async (name: string) => {
+    setLoading(true);
+    const birdData = await fetch('/data.json').then((res) => res.json());
+    const birdMatch = birdData.find(
+      (bird) => bird['Common name']?.toLowerCase() === name.toLowerCase()
+    );
+    if (birdMatch) {
+      setBird(birdMatch as Bird);
+      setError('');
+      setListening(false);
+    } else {
+      setBird(null);
+      setError(`no bird "${name.toLowerCase()}"`);
+      setListening(false);
     }
-  };
-
-  const fetchBirdInfo = async (name: string) => {
-    try {
-      const response = await axios.get<BirdInfo>('/api/birdInfo', {
-        params: { name },
-      });
-      setBirdInfo(response.data);
-    } catch (err) {
-      console.error('Fetch bird info error:', err);
-      setBirdInfo(null);
-    }
+    setLoading(false);
   };
 
   return (
     <div className='app-container'>
       <header className='app-header'>
-        <h1 className='app-title'>Wingzam</h1>
+        <h1 className='app-title'>wingzam</h1>
       </header>
 
       <div className='content-wrapper'>
-        <motion.div
-          className='relative'
-          animate={buttonMoved ? { y: '50vh' } : { y: 0 }}
-          transition={{ duration: 0.5 }}
-        >
-          <motion.button
-            className='listen-button'
-            onClick={handleListen}
-            disabled={listening}
-            whileTap={{ scale: 0.9 }}
-          >
-            <FaFeather size={50} />
-          </motion.button>
+        <AnimatePresence>
+          {listening && (
+            <motion.div
+              className='listening-text text-xl mt-4'
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              transition={{ duration: 0.5 }}
+            >
+              {listeningText}
+            </motion.div>
+          )}
+        </AnimatePresence>
 
-          <AnimatePresence>
-            {listening && (
+        <AnimatePresence>
+          {bird && (
+            <motion.div
+              className='bird-card'
+              initial={{ opacity: 0, scale: 0.8, y: 50 }}
+              animate={{ opacity: 1, scale: 1, y: 0 }}
+              exit={{ opacity: 0, scale: 0.8, y: 50 }}
+              transition={{
+                duration: 0.7, // Increase duration to smoothen transition
+                ease: 'easeInOut',
+              }}
+              onAnimationComplete={(definition) => {
+                if (definition === 'exit') setBird(null); // Ensure smooth exit
+              }}
+            >
+              <div className='card-header'>
+                <h2 className='card-title'>{bird['Common name']}</h2>
+                <p className='card-subtitle'>{bird['Scientific name']}</p>
+              </div>
+              <div className='card-body'>
+                <p>
+                  <strong>Expansion:</strong> {bird.Expansion}
+                </p>
+                <p>
+                  <strong>Color:</strong> {bird.Color}
+                </p>
+                <p>
+                  <strong>Power:</strong> {bird['Power text']}
+                </p>
+                <p>
+                  <strong>Wingspan:</strong> {bird.Wingspan} cm
+                </p>
+                {bird.Note && (
+                  <p>
+                    <strong>Note:</strong> {bird.Note}
+                  </p>
+                )}
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        <motion.div
+          className='listen-container'
+          initial={{ y: 0, scale: 1 }}
+          animate={{ y: bird ? '6vh' : 0, scale: bird ? 0.7 : 1 }}
+          exit={{ y: 0, scale: 1 }}
+          transition={{
+            duration: 0.7,
+            ease: 'easeInOut', // Match with card's transition
+          }}
+        >
+          {listening && !bird ? (
+            <>
               <motion.div
-                className='ripple'
-                initial={{ opacity: 0, scale: 1 }}
-                animate={{ opacity: 0.6, scale: 1.5 }}
-                exit={{ opacity: 0 }}
+                className='ripple ripple-1'
+                initial={{ scale: 0, opacity: 0.4 }}
+                animate={{ scale: 1.8, opacity: 0 }}
                 transition={{
-                  duration: 1,
+                  duration: 1.5,
                   repeat: Infinity,
                   repeatType: 'reverse',
                 }}
               />
+              <motion.div
+                className='ripple ripple-2'
+                initial={{ scale: 0, opacity: 0.3 }}
+                animate={{ scale: 2.2, opacity: 0 }}
+                transition={{
+                  duration: 2.0,
+                  repeat: Infinity,
+                  repeatType: 'reverse',
+                }}
+              />
+              <motion.div
+                className='ripple ripple-3'
+                initial={{ scale: 0, opacity: 0.2 }}
+                animate={{ scale: 2.5, opacity: 0 }}
+                transition={{
+                  duration: 2.5,
+                  repeat: Infinity,
+                  repeatType: 'reverse',
+                }}
+              />
+            </>
+          ) : null}
+
+          <motion.button
+            className='listen-button'
+            onClick={handleListen}
+            disabled={loading}
+            whileTap={{ scale: 0.9 }}
+          >
+            {loading ? (
+              <div className='loader border-t-4 border-white w-12 h-12 rounded-full'></div>
+            ) : (
+              <span role='img' aria-label='feather'>
+                <FaFeather size={40} />
+              </span>
+            )}
+          </motion.button>
+
+          <AnimatePresence>
+            {interimTranscript && (
+              <motion.div
+                className='live-caption text-2xl font-semibold mt-4'
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+              >
+                {interimTranscript.toLowerCase()}
+              </motion.div>
             )}
           </AnimatePresence>
+          {error && <div className='error-message'>{error}</div>}
         </motion.div>
-
-        {loading && (
-          <div className='loader mt-4 mx-auto border-t-4 border-white w-12 h-12 rounded-full animate-spin'></div>
-        )}
-        {error && <div className='text-red-500 mt-4'>{error}</div>}
-
-        <AnimatePresence>
-          {audioSrc && !loading && (
-            <motion.div
-              className='audio-player mt-6'
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -20 }}
-            >
-              <p className='text-xl font-semibold'>Playing: {birdName}</p>
-              <audio
-                src={audioSrc}
-                controls
-                autoPlay
-                className='mt-2 mx-auto'
-              />
-            </motion.div>
-          )}
-        </AnimatePresence>
-
-        <AnimatePresence>
-          {birdInfo && (
-            <motion.div
-              className='bird-info mt-6'
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -20 }}
-            >
-              <h2 className='text-2xl font-bold'>{birdInfo.name}</h2>
-              {birdInfo.image && (
-                <img
-                  src={birdInfo.image}
-                  alt={birdInfo.name}
-                  className='mt-4 mx-auto rounded-lg shadow-lg'
-                />
-              )}
-              <p className='mt-4'>{birdInfo.description}</p>
-            </motion.div>
-          )}
-        </AnimatePresence>
       </div>
 
       <footer className='app-footer'>
-        <p>&copy; {new Date().getFullYear()} Wingzam</p>
+        <p>made by pete</p>
       </footer>
     </div>
   );
