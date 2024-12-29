@@ -71,7 +71,32 @@ const App: React.FC = () => {
     }
   }, [listening, interimTranscript]);
 
+  function handleStopListening() {
+    if (recognitionRef.current) {
+      // Stop current recognition
+      recognitionRef.current.stop();
+
+      // Clean up event handlers
+      recognitionRef.current.onresult = null;
+      recognitionRef.current.onerror = null;
+      recognitionRef.current.onend = null;
+
+      // Reset the ref
+      recognitionRef.current = null;
+    }
+
+    // Update local state accordingly
+    setListening(false);
+    setInterimTranscript('');
+    setError('');
+  }
+
   const handleListen = () => {
+    if (listening) {
+      handleStopListening();
+      return;
+    }
+
     if (bird) {
       setBird(null);
       setError('');
@@ -160,7 +185,12 @@ const App: React.FC = () => {
 
   return (
     <div className='app-container'>
-      <header className='app-header'>
+      <header
+        className='app-header'
+        onClick={() => {
+          window.location.reload();
+        }}
+      >
         <h1 className='app-title'>wingzam</h1>
       </header>
 
